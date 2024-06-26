@@ -1,0 +1,107 @@
+title: LAMIR 2024
+preposition: ''
+description: >-
+  Join us for the 1st Latin American Music Information Research (LAMIR) workshop, from December 9 to 11, 2024, in Rio de Janeiro.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - .github/
+  - venv/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - screenshot.png
+  - jekyll-theme-conference.gemspec
+  - purgecss.config.js
+  - _config.example.yml
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+# Theme default values
+conference:
+  lang: en
+  show_errors: True
+
+  info_bars:
+    - title: Workshop to be announced!
+      color: warning
+      text: |
+        This website is under construction. The information presented here might change!
+
+  talks:
+    main_categories:
+      - name: category 1
+        color: info
+      - name: category 2
+        color: success
+
+  link_preview:
+    disable: false
+
+  speakers:
+    show_firstname: true
+
+  location:
+    url: '/location'
+    map: true
+
+  program:
+    url: '/program'
+    time_steps: 15
+    show_alltimes: true
+
+  navigation:
+    logo:
+      name: LAMIR
+      img: 'lamir_logo.png'
+    links:
+      - name: Call for Papers
+        relative_url: /call4papers/
+      - name: Program
+        relative_url: /program/
+      - live: true
+      - name: Sponsors
+        relative_url: /sponsors/
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Closing Event
+        relative_url: /closing_event/
+      - name: Accomodation
+        relative_url: /accomodation.html
+      - name: Code of Conduct
+        relative_url: /coc.html
