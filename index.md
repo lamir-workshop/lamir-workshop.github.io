@@ -2,10 +2,30 @@
 layout: home
 ---
 
-Tentative schedule:
-* Friday, July 12, 2024: <a href="call4papers.html">submission site opens</a>
-* Friday, September 06, 2024: submission deadline
-* Friday, September 27, 2024: acceptance notification
-* Friday, September 27, 2024: travel support application starts
-* Friday, September 27, 2024: travel support application starts
-* Friday, October 4, 2024: results of financial support
+Welcome to the official website of the 1st Latin American Music Information
+Retrieval (LAMIR) Workshop! LAMIR is a satellite event of the ISMIR 2024
+conference and part of the [KHIPUx](https://khipu.ai/) 2024 events. It provides opportunities for
+local students and researchers to cultivate the Latin American community within
+the [International Society for Music Information Retrieval](https://ismir.net/) (ISMIR) and the
+Artificial Intelligence (AI) communities.
+
+The workshop will take place on December 9 – 11, 2024, at the Universidade
+Federal do Rio de Janeiro (UFRJ) in Rio de Janeiro, Brazil.
+
+**We will be offering financial support in the form of travel awards to local
+Latin American student authors of accepted papers.** More information on how to
+apply will be announced soon on the “Travel Awards” page.
+
+---
+
+**Important Dates**
+* Friday, July 12, 2024 - Submission Site Opens
+* Friday, September 6, 2024 - Abstract + Paper Submission Due
+* Friday, October 4, 2024 - Acceptance Notification
+* Friday, October 4, 2024 - Travel Award Applications Open
+* Friday, October 11, 2024 - Registration Opens
+* Friday, October 11, 2024 - Travel Award Applications Close
+* Friday, October 18, 2024 - Travel Award Notification
+* Monday, November 25 - Early / Author Registration Closes
+* Monday, December 9 - Standard Registration Closes
+* Monday, December 9 to Wednesday, December 11, 2024 - Workshop
