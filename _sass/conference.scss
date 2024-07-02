@@ -253,3 +253,16 @@ main.container img {
     display: inline-block !important;
   }
 }
+
+.submission-btn {
+    color-adjust: exact;
+    background-color: $secondary;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 12px;
+}

@@ -17,14 +17,14 @@ topics below).
 The workshop is open to everyone, though we prioritize works authored by members
 of the Latin American community and those centered on Latin American musical
 styles. Therefore, while papers focused on Latin American music are not
-required, they are highly encouraged. This new event will be an excellent
+required, they are **highly encouraged**. This new event will be an excellent
 opportunity to connect with other researchers in the field while making a
 meaningful contribution to improving Latin American representation in MIR.
 
 Relevant topics for LAMIR include, but are not limited to:
 * Applications in Latin American Music
-* Music performance analysis
-* Audio archiving, preservation and restoration
+* Music Performance Analysis
+* Audio Archiving, Preservation and Restoration
 * MIR Fundamentals, Methodology, and Tasks
 * Generative Tasks (Music and Audio Synthesis)
 * Evaluation, Datasets, and Reproducibility
@@ -42,8 +42,9 @@ should not know the names of the reviewers of their papers, and reviewers should
 not know the name(s) of the author(s).
 
 #### Evaluation Criteria
-Papers will be reviewed using the same criteria outlined by the ISMIR
-organization. The workshop is open to everyone, though we prioritize works
+Papers will be reviewed using the [same criteria outlined by the ISMIR
+organization](https://ismir.net/reviewer-guidelines/).
+The workshop is open to everyone, though we prioritize works
 authored by members of the Latin American community and those centered on Latin
 American music.
 
@@ -72,11 +73,12 @@ License (CC BY 4.0).
 #### Language
 Submissions should be made in English. Authors are welcome to use either
 American or British spellings as long as they are used consistently throughout
-the entire submission
+the entire submission.
 
 #### Paper Format
-Papers must be formatted using the ISMIR 2024 templates (LaTeX/Overleaf or
-Word). Authors are required to submit their papers in PDF format. Submissions
+Papers must be formatted using the ISMIR 2024 templates
+([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex)/[Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) or
+[Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)). Authors are required to submit their papers in PDF format. Submissions
 that manipulate the template (e.g., by decreasing margins or font sizes) may be
 rejected without review. All fonts must be embedded within the PDF.
 
@@ -105,3 +107,6 @@ mailing lists) during the review period.
 * Friday, October 4, 2024 - Acceptance Notification
 * Monday, November 25, 2024 - Author Registration Closes
 * Monday, December 9 - Wednesday, December 11, 2024 - Workshop
+
+**CMT Submission Portal will open on Friday, July 12, 2024.**
+<!-- [CMT Submission Portal](){: .submission-btn} -->
