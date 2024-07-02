@@ -99,9 +99,7 @@ conference:
         relative_url: /sponsors/
       - name: Speakers
         relative_url: /speakers/
-      - name: Closing Event
-        relative_url: /closing_event/
-      - name: Accomodation
-        relative_url: /accomodation.html
       - name: Code of Conduct
-        relative_url: /coc.html
+        relative_url: /coc/
+      - name: Travel Awards
+        relative_url: /travel_awards/
