@@ -12,6 +12,8 @@ Artificial Intelligence (AI) communities.
 The workshop will take place on December 9 – 11, 2024, at the Universidade
 Federal do Rio de Janeiro (UFRJ) in Rio de Janeiro, Brazil.
 
+Please see the [Call for Papers](call4papers) page for more information.
+
 **We will be offering financial support in the form of travel awards to local
 Latin American student authors of accepted papers.** More information on how to
 apply will be announced soon on the “Travel Awards” page.
