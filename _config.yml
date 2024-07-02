@@ -57,12 +57,6 @@ conference:
   lang: en
   show_errors: True
 
-  info_bars:
-    - title: Workshop to be announced!
-      color: warning
-      text: |
-        This website is under construction. The information presented here might change!
-
   talks:
     main_categories:
       - name: category 1
@@ -78,7 +72,10 @@ conference:
 
   location:
     url: '/location'
-    map: true
+    map:
+      home_coord: -22.85833, -43.23047
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 17
 
   program:
     url: '/program'
@@ -88,20 +85,20 @@ conference:
   navigation:
     logo:
       name: LAMIR
-      img: 'lamir_logo.png'
+      img: 'lamir.svg'
     links:
       - name: Call for Papers
         relative_url: /call4papers/
-      - name: Program
-        relative_url: /program/
-      - live: true
-      - name: Sponsors
-        relative_url: /sponsors/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Closing Event
-        relative_url: /closing_event/
-      - name: Accomodation
-        relative_url: /accomodation.html
-      - name: Code of Conduct
-        relative_url: /coc.html
+      # - name: Program
+      #   relative_url: /program/
+      # - live: true
+      # - name: Speakers
+      #   relative_url: /speakers/
+      # - name: Localtion
+      #   relative_url: /location/
+      # - name: Travel Awards
+      #   relative_url: /travel_awards/
+      # - name: Sponsors
+      #   relative_url: /sponsors/
+      # - name: Code of Conduct
+      #   relative_url: /coc/
