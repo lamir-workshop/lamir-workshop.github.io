@@ -65,12 +65,14 @@ automatic withdrawal of the paper from the workshop proceedings and program.
 #### Publication
 Accepted papers will be published in the workshop proceedings and on an
 open-access repository using a Creative Commons Attribution 4.0 International
-License (CC BY 4.0), in accordance with ISMIR guidelines.
+License (CC BY 4.0).
 
 ## Submission Requirements
 
 #### Language
-Papers should be written in English.
+Submissions should be made in English. Authors are welcome to use either
+American or British spellings as long as they are used consistently throughout
+the entire submission
 
 #### Paper Format
 Papers must be formatted using the ISMIR 2024 templates (LaTeX/Overleaf or
