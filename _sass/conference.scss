@@ -136,7 +136,7 @@ main.container img {
   }
 }
 
-//   Column Width
+  Column Width
 .table {
   // First row defines width for all columns
   table-layout: fixed;
@@ -254,15 +254,30 @@ main.container img {
   }
 }
 
+// CMT submission button
 .submission-btn {
-    color-adjust: exact;
-    background-color: $secondary;
-	border: none;
-	color: white;
-	padding: 15px 32px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	border-radius: 12px;
+  color-adjust: exact;
+  background-color: $secondary;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+.registration-table {
+  @extend .table;
+
+	th {
+		background-color: $light;
+		vertical-align: top;
+		border-width: 1px;
+	}
+
+	td {
+		vertical-align: top;
+	}
 }

@@ -89,6 +89,8 @@ conference:
     links:
       - name: Call for Papers
         relative_url: /call4papers/
+      - name: Registration
+        relative_url: /registration/
       # - name: Program
       #   relative_url: /program/
       # - live: true
