@@ -3,9 +3,11 @@ layout: default
 title: "Call for Papers"
 ---
 
+
 # Call For Papers
 
 [CMT Submission Portal](https://cmt3.research.microsoft.com/LAMIR2024){: .submission-btn}
+
 
 ## Deadline
 Tuesday, September 3, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
@@ -81,9 +83,9 @@ American or British spellings as long as they are used consistently throughout
 the entire submission.
 
 #### Paper Format
-Papers must be formatted using the ISMIR 2024 templates
-([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex)/[Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) or
-[Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)). Authors are required to submit their papers in PDF format. Submissions
+Papers must be formatted using the LAMIR 2024 templates
+([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex) / [Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) or
+[Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)) which are based on the ISMIR 2024 templates. Authors are required to submit their papers in PDF format (maximum file size of 10MB). Submissions
 that manipulate the template (e.g., by decreasing margins or font sizes) may be
 rejected without review. All fonts must be embedded within the PDF.
 
