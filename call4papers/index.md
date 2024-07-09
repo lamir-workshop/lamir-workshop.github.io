@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Call For Papers
+
+[CMT Submission Portal](https://cmt3.research.microsoft.com/LAMIR2024){: .submission-btn}
+
 ## Deadline
 Tuesday, September 3, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
 Microsoft CMT.
@@ -108,5 +112,4 @@ mailing lists) during the review period.
 * Monday, November 25, 2024 - Author Registration Closes
 * Monday, December 9 - Wednesday, December 11, 2024 - Workshop
 
-**CMT Submission Portal will open on Friday, July 12, 2024.**
-<!-- [CMT Submission Portal](){: .submission-btn} -->
+[CMT Submission Portal](https://cmt3.research.microsoft.com/LAMIR2024){: .submission-btn}
