@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Call for Papers"
 ---
 
 # Call For Papers
