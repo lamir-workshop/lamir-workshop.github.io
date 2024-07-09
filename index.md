@@ -31,3 +31,9 @@ apply will be announced soon on the “Travel Awards” page.
 * Monday, November 25, 2024 - Early / Author Registration Closes
 * Monday, December 9, 2024 - Standard Registration Closes
 * Monday, December 9 to Wednesday, December 11, 2024 - Workshop
+
+---
+
+<div class="row justify-content-center">
+  <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
+</div>

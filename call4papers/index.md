@@ -3,15 +3,16 @@ layout: default
 title: "Call for Papers"
 ---
 
-
 # Call For Papers
 
-[CMT Submission Portal](https://cmt3.research.microsoft.com/LAMIR2024){: .submission-btn}
-
-
 ## Deadline
-Tuesday, September 3, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
+Friday, September 6, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
 Microsoft CMT.
+
+<div class="row justify-content-center">
+  <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
+</div>
+<br>
 
 ## Overview and Topics
 The Organizing Committee of the Latin American Music Information Retrieval
@@ -115,4 +116,7 @@ mailing lists) during the review period.
 * Monday, November 25, 2024 - Author Registration Closes
 * Monday, December 9 - Wednesday, December 11, 2024 - Workshop
 
-[CMT Submission Portal](https://cmt3.research.microsoft.com/LAMIR2024){: .submission-btn}
+<div class="row justify-content-center">
+  <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
+</div>
+<br>
