@@ -271,5 +271,11 @@ main.container img {
 .registration-table {
 	th {
 		background-color: $light;
+		vertical-align: top;
+		border-width: 1px;
+	}
+
+	td {
+		vertical-align: top;
 	}
 }
