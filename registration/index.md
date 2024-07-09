@@ -10,7 +10,7 @@ Registration for LAMIR 2024 will open on Friday, October 11, 2024. We encourage 
 To support the accessibility of the workshop while ensuring a high-quality experience, a registration fee applies to all attendees. Please see the cost of registration below.
 
 
-<table class="table registration-table mb-0 mx-auto">
+<table class="registration-table mb-0 mx-auto">
   <thead>
     <tr>
       <th scope="col" class="col-title text-left"></th>
