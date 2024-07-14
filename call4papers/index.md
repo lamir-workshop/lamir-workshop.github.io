@@ -1,12 +1,22 @@
 ---
 layout: default
+title: "Call for Papers"
 ---
 
-## Deadline
-Tuesday, September 3, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
+# Call For Papers
+
+<br>
+
+### Deadline
+Friday, September 6, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
 Microsoft CMT.
 
-## Overview and Topics
+<div class="row justify-content-center">
+  <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
+</div>
+<br>
+
+### Overview and Topics
 The Organizing Committee of the Latin American Music Information Retrieval
 (LAMIR) Workshop 2024 welcomes you to submit an application to present at the
 event in the form of a full paper. We encourage submissions of research from all
@@ -34,56 +44,56 @@ Relevant topics for LAMIR include, but are not limited to:
 * Music Recommender Systems
 * Tools for Creativity
 
-## Selection Process
+### Selection Process
 
-#### Paper Review
-All submitted papers will be reviewed using a double-blind process. Authors
+**Paper Review**
+<br>All submitted papers will be reviewed using a double-blind process. Authors
 should not know the names of the reviewers of their papers, and reviewers should
 not know the name(s) of the author(s).
 
-#### Evaluation Criteria
-Papers will be reviewed using the [same criteria outlined by the ISMIR
+**Evaluation Criteria**
+<br>Papers will be reviewed using the [same criteria outlined by the ISMIR
 organization](https://ismir.net/reviewer-guidelines/).
 The workshop is open to everyone, though we prioritize works
 authored by members of the Latin American community and those centered on Latin
 American music.
 
-## Submission Procedure
+### Submission Procedure
 
 All paper submissions must be made through Microsoft CMT by the deadline in
 order to be considered for review.
 
-#### Subject Area
-When submitting, authors will be required to choose from a list of subject
+**Subject Area**
+<br>When submitting, authors will be required to choose from a list of subject
 areas. Please indicate the most appropriate subject area for your work so that
 we may assign reviewers accordingly.
 
-#### Presenting Authors
-At least one author of each accepted paper must register for the workshop.
+**Presenting Authors**
+<br>At least one author of each accepted paper must register for the workshop.
 Failure to enroll before the author registration deadline will result in the
 automatic withdrawal of the paper from the workshop proceedings and program.
 
-#### Publication
-Accepted papers will be published in the workshop proceedings and on an
+**Publication**
+<br>Accepted papers will be published in the workshop proceedings and on an
 open-access repository using a Creative Commons Attribution 4.0 International
 License (CC BY 4.0).
 
-## Submission Requirements
+### Submission Requirements
 
-#### Language
-Submissions should be made in English. Authors are welcome to use either
+**Language**
+<br>Submissions should be made in English. Authors are welcome to use either
 American or British spellings as long as they are used consistently throughout
 the entire submission.
 
-#### Paper Format
-Papers must be formatted using the ISMIR 2024 templates
-([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex)/[Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) or
-[Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)). Authors are required to submit their papers in PDF format. Submissions
+**Paper Format**
+<br>Papers must be formatted using the LAMIR 2024 templates
+([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex) / [Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) or
+[Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)) which are based on the ISMIR 2024 templates. Authors are required to submit their papers in PDF format (maximum file size of 10MB). Submissions
 that manipulate the template (e.g., by decreasing margins or font sizes) may be
 rejected without review. All fonts must be embedded within the PDF.
 
-#### Paper Length
-Papers must follow a 4+N format. That is, they can contain up to 4 pages of
+**Paper Length**
+<br>Papers must follow a 4+N format. That is, they can contain up to 4 pages of
 scientific content (including figures and tables) and any additional pages that
 contain only references and an optional ethics statement. Papers should not
 contain appendices. Non-PDF supplementary materials (e.g., audio) may be
@@ -91,8 +101,8 @@ uploaded in the corresponding field in the CMT submission form. Papers that do
 not conform to the required length and format will be rejected without review.
 Acknowledgments (optional) may be included in the camera-ready submission only.
 
-#### Author Anonymity
-Do not put the authors’ names under the title. Avoid using phrases such as “our
+**Author Anonymity**
+<br>Do not put the authors’ names under the title. Avoid using phrases such as “our
 previous work” when referring to earlier publications by the authors. Check
 supplementary material for information that may reveal the authors’ identity.
 Avoid providing links to websites that identify the authors. To preserve the
@@ -100,7 +110,7 @@ double-blind review process, please avoid posting the manuscript on public
 websites (e.g., arXiv) or promoting the work in any way (e.g., social media,
 mailing lists) during the review period.
 
-## Important Dates for Authors
+### Important Dates for Authors
 
 * Friday, July 12, 2024 - Submission Site Opens
 * Friday, September 6, 2024 - Abstract + Paper Submission Due
@@ -108,5 +118,7 @@ mailing lists) during the review period.
 * Monday, November 25, 2024 - Author Registration Closes
 * Monday, December 9 - Wednesday, December 11, 2024 - Workshop
 
-**CMT Submission Portal will open on Friday, July 12, 2024.**
-<!-- [CMT Submission Portal](){: .submission-btn} -->
+<div class="row justify-content-center">
+  <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
+</div>
+<br>
