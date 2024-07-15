@@ -2,43 +2,25 @@
 
 {%- include partials/header.html -%}
 
-
-<div class="container my-5">
+<div class="container">
   <h2 class="text-center">Sponsors</h2>
   <div class="row">
+    {%- for s in site.conference.sponsors.sponsors -%}
     <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/capes.jpg" class="img-fluid" alt="Institutional Sponsor 1">
+      <img src="{{ s.logo | prepend: '/assets/images/' | prepend: site.baseurl }}" class="img-fluid" alt="{{ s.full_name }}" />
     </div>
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/khipu_color.png" class="img-fluid" alt="Institutional Sponsor 2">
-    </div>
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/ismir.png" class="img-fluid" alt="Institutional Sponsor 3">
-    </div>
+    {%- endfor -%}
   </div>
 
   <br>
 
-  <h2 class="text-center mt-5">Institutional Support</h2>
+  <h2 class="text-center">Institutional Support</h2>
   <div class="row">
+    {%- for s in site.conference.sponsors.institutional_support -%}
     <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/ufrj.png" class="img-fluid" alt="Logo 1">
+      <img src="{{ s.logo | prepend: '/assets/images/' | prepend: site.baseurl }}" class="img-fluid" alt="{{ s.full_name }}" />
     </div>
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/jku.png" class="img-fluid" alt="Logo 2">
-    </div>
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/udelar.png" class="img-fluid" alt="Logo 3">
-    </div>
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/upf.png" class="img-fluid" alt="Logo 4">
-    </div>
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/nyu.png" class="img-fluid" alt="Logo 5">
-    </div>
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="../assets/images/ieee_sps.png" class="img-fluid" alt="Logo 5">
-    </div>
+    {%- endfor -%}
   </div>
 </div>
 

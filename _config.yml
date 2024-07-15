@@ -106,7 +106,7 @@ conference:
       #   relative_url: /coc/
 
   sponsors:
-    financial:
+    sponsors:
       - name: CAPES
         full_name: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
         logo: capes.jpg
@@ -116,7 +116,7 @@ conference:
       - name: KHIPU
         full_name: KHIPU
         logo: khipu.png
-    institutional:
+    institutional_support:
       - name: IEEE SPS
         full_name: IEEE Signal Processing Society
         logo: ieee_sps.png
@@ -127,7 +127,7 @@ conference:
         full_name: New York University
         logo: nyu.png
       - name: UdelaR
-        full_name: Universidad de la Republica
+        full_name: Universidad de la República Uruguay
         logo: udelar.png
       - name: UPF
         full_name: Universitat Pompeu Fabra
