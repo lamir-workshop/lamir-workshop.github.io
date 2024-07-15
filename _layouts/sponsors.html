@@ -2,8 +2,9 @@
 
 {%- include partials/header.html -%}
 
-<div class="container">
-  <h2 class="text-center">Sponsors</h2>
+<div class="jumbotron">
+  <!-- <h2 class="text-center">Sponsors</h2> -->
+  <h1 class="display-5 mb-3 d-print-none text-center">Sponsors</h1>
   <div class="row">
     {%- for s in site.conference.sponsors.sponsors -%}
     <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
@@ -11,10 +12,12 @@
     </div>
     {%- endfor -%}
   </div>
+</div>
 
-  <br>
+<br>
 
-  <h2 class="text-center">Institutional Support</h2>
+<div class="jumbotron">
+  <h1 class="display-5 mb-3 d-print-none text-center">Institutional Support</h1>
   <div class="row">
     {%- for s in site.conference.sponsors.institutional_support -%}
     <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
