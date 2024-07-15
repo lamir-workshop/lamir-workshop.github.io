@@ -1,0 +1,35 @@
+{% assign sponsors = page %}
+
+{%- include partials/header.html -%}
+
+<div class="jumbotron">
+  <!-- <h2 class="text-center">Sponsors</h2> -->
+  <h1 class="display-5 mb-3 d-print-none text-center">Sponsors</h1>
+  <div class="row">
+    {%- for s in site.conference.sponsors.sponsors -%}
+    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
+      <a href="{{ s.url }}" target="_blank">
+        <img src="{{ s.logo | prepend: '/assets/images/' | prepend: site.baseurl }}" class="img-fluid" alt="{{ s.full_name }}" />
+      </a>
+    </div>
+    {%- endfor -%}
+  </div>
+</div>
+
+<br>
+
+<div class="jumbotron">
+  <h1 class="display-5 mb-3 d-print-none text-center">Institutional Support</h1>
+  <div class="row">
+    {%- for s in site.conference.sponsors.institutional_support -%}
+    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
+      <a href="{{ s.url }}" target="_blank">
+        <img src="{{ s.logo | prepend: '/assets/images/' | prepend: site.baseurl }}" class="img-fluid" alt="{{ s.full_name }}" />
+      </a>
+    </div>
+    {%- endfor -%}
+  </div>
+</div>
+
+
+{% include partials/footer.html %}
