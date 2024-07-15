@@ -7,9 +7,9 @@
   <div class="row">
     {%- for s in site.data.organization.organizing_committee -%}
     <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="{{ s.logo | prepend: '/assets/headshots/' | prepend: site.baseurl }}" style="height:250px;width:250px"/>
+      <img src="{{ s.logo | prepend: '/assets/headshots/' | prepend: site.baseurl }}" style="height:250px;width:250px;border-radius:50%;"/>
       <p>
-        <b>{{s.name}}</b>
+        <h4>{{s.name}}</h4>
       </p>
       <p>
         {{s.org}}
@@ -25,10 +25,10 @@
   <h1 class="display-5 mb-3 d-print-none text-center">Scientific Program Committee</h1>
   <div class="row">
     {%- for s in site.data.organization.scientific_program_committee -%}
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="{{ s.logo | prepend: '/assets/headshots/' | prepend: site.baseurl }}" style="height:250px;width:250px"/>
+    <div class="col-lg-6 col-md-6 col-sm-12 text-center my-3">
+      <img src="{{ s.logo | prepend: '/assets/headshots/' | prepend: site.baseurl }}" style="height:250px;width:250px;border-radius:50%;"/>
       <p>
-        <b>{{s.name}}</b>
+        <h4>{{s.name}}</h4>
       </p>
       <p>
         {{s.org}}
@@ -42,11 +42,10 @@
   <h1 class="display-5 mb-3 d-print-none text-center">Logistics Committee</h1>
   <div class="row">
     {%- for s in site.data.organization.logistics_committee -%}
-    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
-      <img src="{{ s.logo | prepend: '/assets/headshots/' | prepend: site.baseurl }}" style="height:250px;width:250px"/>
+    <div class="col-lg-6 col-md-6 col-sm-12 text-center my-3">
+      <img src="{{ s.logo | prepend: '/assets/headshots/' | prepend: site.baseurl }}" style="height:250px;width:250px;border-radius:50%;"/>
       <p>
-        <b>{{s.name}}</b>
-      </p>
+        <h4>{{s.name}}</h4>
       <p>
         {{s.org}}
       </p>
