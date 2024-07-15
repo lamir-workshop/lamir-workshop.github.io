@@ -109,7 +109,7 @@ conference:
     sponsors:
       - name: CAPES
         full_name: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
-        logo: capes.jpg
+        logo: capes.png
       - name: ISMIR
         full_name: International Society for Music Information Retrieval
         logo: ismir.png
