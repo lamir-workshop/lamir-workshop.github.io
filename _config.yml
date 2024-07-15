@@ -91,16 +91,47 @@ conference:
         relative_url: /call4papers/
       - name: Registration
         relative_url: /registration/
-      # - name: Program
-      #   relative_url: /program/
-      # - live: true
-      # - name: Speakers
-      #   relative_url: /speakers/
-      # - name: Localtion
-      #   relative_url: /location/
-      # - name: Travel Awards
-      #   relative_url: /travel_awards/
-      # - name: Sponsors
-      #   relative_url: /sponsors/
-      # - name: Code of Conduct
-      #   relative_url: /coc/
+      - name: Program
+        relative_url: /program/
+      - live: true
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Location
+        relative_url: /location/
+      - name: Travel Awards
+        relative_url: /travel_awards/
+      - name: Sponsors
+        relative_url: /sponsors/
+      - name: Code of Conduct
+        relative_url: /coc/
+
+  sponsors:
+    financial:
+      - name: CAPES
+        full_name: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+        logo: capes.jpg
+      - name: ISMIR
+        full_name: International Society for Music Information Retrieval
+        logo: ismir.png
+      - name: KHIPU
+        full_name: KHIPU
+        logo: khipu.png
+    institutional:
+      - name: IEEE SPS
+        full_name: IEEE Signal Processing Society
+        logo: ieee_sps.png
+      - name: JKU
+        full_name: Johannes Kepler University Linz
+        logo: jku.png
+      - name: NYU
+        full_name: New York University
+        logo: nyu.png
+      - name: UdelaR
+        full_name: Universidad de la Republica
+        logo: udelar.png
+      - name: UPF
+        full_name: Universitat Pompeu Fabra
+        logo: upf.png
+      - name: UFRJ
+        full_name: Universidade Federal do Rio de Janeiro
+        logo: ufrj.png
