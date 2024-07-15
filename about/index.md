@@ -1,6 +1,4 @@
 ---
-layout: default
-title: "Committee"
+layout: about
+title: "About"
 ---
-
-# Organizing Comittee
