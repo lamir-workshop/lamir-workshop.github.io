@@ -110,28 +110,37 @@ conference:
       - name: CAPES
         full_name: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
         logo: capes.png
+        url: https://www.gov.br/capes/pt-br
       - name: ISMIR
         full_name: International Society for Music Information Retrieval
         logo: ismir.png
+        url: https://ismir.net
       - name: KHIPU
         full_name: KHIPU
         logo: khipu.png
+        url: https://khipu.ai
     institutional_support:
       - name: IEEE SPS
         full_name: IEEE Signal Processing Society
         logo: ieee_sps.png
+        url:  https://signalprocessingsociety.org
       - name: JKU
         full_name: Johannes Kepler University Linz
         logo: jku.png
+        url: https://www.jku.at
       - name: NYU
         full_name: New York University
         logo: nyu.png
+        url: https://www.nyu.edu
       - name: UdelaR
         full_name: Universidad de la República Uruguay
         logo: udelar.png
+        url: https://udelar.edu.uy/portal/
       - name: UPF
         full_name: Universitat Pompeu Fabra
         logo: upf.png
+        url:  https://www.upf.edu
       - name: UFRJ
         full_name: Universidade Federal do Rio de Janeiro
         logo: ufrj.png
+        url: https://ufrj.br
