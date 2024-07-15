@@ -91,19 +91,19 @@ conference:
         relative_url: /call4papers/
       - name: Registration
         relative_url: /registration/
-      - name: Program
-        relative_url: /program/
-      - live: true
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Travel Awards
-        relative_url: /travel_awards/
+      # - name: Program
+      #   relative_url: /program/
+      # - live: true
+      # - name: Speakers
+      #   relative_url: /speakers/
+      # - name: Location
+      #   relative_url: /location/
+      # - name: Travel Awards
+      #   relative_url: /travel_awards/
       - name: Sponsors
         relative_url: /sponsors/
-      - name: Code of Conduct
-        relative_url: /coc/
+      # - name: Code of Conduct
+      #   relative_url: /coc/
 
   sponsors:
     financial:
