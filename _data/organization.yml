@@ -1,0 +1,24 @@
+organizing_committee:
+  - name: Magdalena Fuentes
+    org: New York University (NYU)
+    logo: magda.jpg
+  - name: Luis Wagner Pereira Biscainho
+    org: Universidade Federal do Rio de Janeiro (UFRJ)
+    logo: luis.jpg
+  - name: Martín Rocamora
+    org: Universitat Pompeu Fabra (UPF) and Universidad de la República (UDELAR)
+    logo: martin.jpg
+scientific_program_committee:
+  - name: Lucas Simões Maia
+    org: Universidade Federal do Rio de Janeiro (UFRJ)
+    logo: lucas.jpg
+  - name: Carlos Eduardo Cancino-Chacón
+    org: Johannes Kepler University Linz (JKU)
+    logo: carlos.jpg
+logistics_committee:
+  - name: Giovana Morais
+    org: New York University (NYU)
+    logo: giovana.jpg
+  - name: Richa Namballa
+    org: New York University (NYU)
+    logo: richa.jpg

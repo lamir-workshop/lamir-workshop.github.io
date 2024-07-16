@@ -2,6 +2,9 @@
 layout: home
 ---
 
+<center><img src="assets/images/rio.jpg" alt="Rio de Janeiro landscape" style="max-width: 99%;"></center>
+<br>
+
 Welcome to the official website of the 1st Latin American Music Information
 Retrieval (LAMIR) Workshop! LAMIR is a satellite event of the ISMIR 2024
 conference and part of the [KHIPUx](https://khipu.ai/) 2024 events. It provides opportunities for
