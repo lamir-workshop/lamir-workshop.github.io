@@ -102,8 +102,8 @@ conference:
       #   relative_url: /travel_awards/
       - name: Sponsors
         relative_url: /sponsors/
-      - name: About
-        relative_url: /about/      
+      - name: Committee
+        relative_url: /committee/      
       # - name: Code of Conduct
       #   relative_url: /coc/
 
