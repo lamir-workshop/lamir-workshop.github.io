@@ -23,13 +23,13 @@ Information Retrieval ou MIR), incluindo, mas não limitando-se a aprendizado de
 máquina, processamento de sinais e musicologia computacional (veja mais sobre os
 tópicos abaixo).
 
-O workshop é aberto a todos e todas, mas priorizaremos os trabalhos autorados
+O workshop é aberto a todos e todas, mas priorizaremos os trabalhos produzidos
 por membros da comunidade latinoamericana e/ou centrados em repertórios da
 América Latina. Portanto, artigos focados em repertórios da América Latina não
-são um requisito, mas são altamente encorajados. Esse evento será uma excelente
+são um requisito, mas são **altamente encorajados**. Esse evento será uma excelente
 oportunidade para conectar com outros pesquisadores da área e ao mesmo tempo
-fazer uma contribuição significativa para melhorar a representatividade da
-América Latina em MIR.
+contribuir significativamente para melhorar a representatividade da comunidade
+latino-americana em MIR.
 
 Tópicos relevantes para o LAMIR incluem:
 * Aplicações em música latino-americana
@@ -53,8 +53,8 @@ não saberão nomes de autores.
 
 **Critério de Avaliação**
 <br>Artigos serão revisados usando o mesmo [critério descrito pela organização da ISMIR (link em inglês)](https://ismir.net/reviewer-guidelines/).
-O workshop é aberto a todos e todas, mas priorizaremos os trabalhos autorados
-por membros da comunidade latinoamericana e/ou centrados em repertórios da América
+O workshop é aberto a todos e todas, mas priorizaremos os trabalhos produzidos
+por membros da comunidade latino-americana e/ou centrados em repertórios da América
 Latina.
 
 ### Processo de Submissão
@@ -80,8 +80,8 @@ Commons Attribution 4.0 International License (CC BY 4.0).
 ### Requerimentos de Submissão
 
 **Idioma**
-<br>Submissões deverão ser feitas em **inglês**. Autores podem escolher entre a
-ortografia do inglês britânico ou estadunidense, contanto que sejam consistentes
+<br>Submissões deverão ser feitas em **inglês**. Autores podem escolher entre as
+ortografias britânica ou estadunidense, contanto que esta seja consistente
 durante a submissão.
 
 **Formato do Artigo**
@@ -90,7 +90,7 @@ durante a submissão.
 / [Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb)
 ou
 [Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word))
-que são baseados nos templates da ISMIR 2024. Os autores devem submeter os
+que são baseados nos templates da ISMIR 2024. Autores devem submeter os
 artigos no formato PDF (tamanho máximo de 10MB). Submissões que manipularem o
 template (por exemplo, diminuindo o tamanho das margens) serão rejeitadas sem
 revisão. Todas as fontes devem estar embutidas no PDF.
