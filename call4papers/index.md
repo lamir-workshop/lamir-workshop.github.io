@@ -6,6 +6,9 @@ title: "Call for Papers"
 # Call For Papers
 
 <br>
+* [Português](../call4papers_pt)
+* [Español](../call4papers_es)
+<br>
 
 ### Deadline
 Friday, September 6, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
@@ -121,4 +124,5 @@ mailing lists) during the review period.
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
 </div>
+
 <br>
