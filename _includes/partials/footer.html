@@ -1,16 +1,25 @@
 
   </main>
-  <footer class="text-center bg-dark">
-	  <!-- <p class="text-light">LAMIR 2024</p> -->
-    <img src="{{ site.conference.navigation.footer.img | prepend:
+  <footer class="footer bg-dark p-5">
+    <div class="row mt-3">
+      <div class="col-lg-4 col-md-4 col-sm-4">
+        <img src="{{ site.conference.navigation.footer.img | prepend:
     '/assets/images/' | prepend: site.baseurl }}" class="align-right" alt="{{ site.conference.navigation.logo.name }}" style="width:220px;height:156px;">
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4">
+        <p class="text-center text-light font-weight-bold">1st Latin American Music Information Retrieval Workshop</p>
+        <p class="text-center text-light">December 9 - 11, 2024</p>
+        <p class="text-center text-light">Rio de Janeiro, Brazil</p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4">
+      </div>
+    </div>
   {%- include partials/modal_link.html -%}
 
   {%- if site.conference.live.streaming.enable -%}
     {%- include partials/modal_live.html -%}
   {%- endif -%}
 
-  <!-- <p class="text-light">2024 LAMIR</p> -->
   </footer>
 
   <!-- Append build time to avoid caching of live program embedded in JavaScript file -->

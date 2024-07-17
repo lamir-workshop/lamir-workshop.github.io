@@ -84,7 +84,7 @@ conference:
 
   navigation:
     footer:
-      img: 'footer-03.png'
+      img: 'artista-guitarra.png'
     logo:
       name: LAMIR
       # img: 'lamir-white.png'
@@ -107,7 +107,7 @@ conference:
       - name: Sponsors
         relative_url: /sponsors/
       - name: Committee
-        relative_url: /committee/      
+        relative_url: /committee/
       # - name: Code of Conduct
       #   relative_url: /coc/
 
