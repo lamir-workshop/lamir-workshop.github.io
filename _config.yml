@@ -83,9 +83,13 @@ conference:
     show_alltimes: true
 
   navigation:
+    footer:
+      img: 'artista-guitarra.png'
     logo:
       name: LAMIR
-      img: 'lamir.svg'
+      # img: 'lamir-white.png'
+      img: 'fundos-no-bg.png'
+      url: '/'
     links:
       - name: Call for Papers
         relative_url: /call4papers/
@@ -103,7 +107,7 @@ conference:
       - name: Sponsors
         relative_url: /sponsors/
       - name: Committee
-        relative_url: /committee/      
+        relative_url: /committee/
       # - name: Code of Conduct
       #   relative_url: /coc/
 
