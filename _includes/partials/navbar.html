@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-3">
+<nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-dark bg-dark mb-3">
   <div class="container">
 
     <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
@@ -82,14 +82,16 @@
     </div>
 
     {%- if site.conference.navigation.logo %}
+
       <div class="navbar-brand navbar-logo mr-0 ml-1 text-right overflow-hidden">
         <a href="{{ site.conference.navigation.logo.url }}">
           {%- if site.conference.navigation.logo.img %}
-            <img src="{{ site.conference.navigation.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="align-middle" alt="{{ site.conference.navigation.logo.name }}" style="width:300px;height:180px;"/>
+            <img src="{{ site.conference.navigation.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="align-middle" alt="{{ site.conference.navigation.logo.name }}" style="width:220px;height:156px;">
           {%- else %}
             {{ site.conference.navigation.logo.name }}
           {%- endif %}
         </a>
+		<div>
       </div>
     {%- endif %}
 
