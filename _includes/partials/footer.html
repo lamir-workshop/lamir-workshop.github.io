@@ -1,15 +1,19 @@
 
   </main>
-  <footer class="container"></footer>
-
+  <footer class="text-center bg-dark">
+	  <!-- <p class="text-light">LAMIR 2024</p> -->
+    <img src="{{ site.conference.navigation.footer.img | prepend:
+    '/assets/images/' | prepend: site.baseurl }}" class="align-right" alt="{{ site.conference.navigation.logo.name }}" style="width:220px;height:156px;">
   {%- include partials/modal_link.html -%}
 
   {%- if site.conference.live.streaming.enable -%}
     {%- include partials/modal_live.html -%}
   {%- endif -%}
 
+  <!-- <p class="text-light">2024 LAMIR</p> -->
+  </footer>
+
   <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
   <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
-
 </body>
 </html>

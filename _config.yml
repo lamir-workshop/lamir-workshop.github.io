@@ -83,9 +83,13 @@ conference:
     show_alltimes: true
 
   navigation:
+    footer:
+      img: 'footer-03.png'
     logo:
       name: LAMIR
-      img: 'lamir.svg'
+      # img: 'lamir-white.png'
+      img: 'fundos-no-bg.png'
+      url: '/'
     links:
       - name: Call for Papers
         relative_url: /call4papers/
