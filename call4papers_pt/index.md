@@ -7,8 +7,8 @@ title: "Chamada de Trabalhos"
 <br>
 
 ### Data Limite para Submissões
-Sexta-feira, 6 de setembro de 2024, às 23:59 (Qualquer parte do mundo), via
-Microsoft CMT.
+Sexta-feira, 6 de setembro de 2024, às 23:59 Em qualquer lugar da Terra -
+*Anywhere on Earth* (AoE), via Microsoft CMT.
 
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">Portal de Submissão CMT</a>
@@ -18,7 +18,7 @@ Microsoft CMT.
 ### Visão Geral e Tópicos
 O Comitê de Organização do LAMIR 2024 convida você a submeter uma aplicação ao
 evento no formato de um artigo completo. Encorajamos submissões de pesquisadores
-de todas as áreas relacionadas à Recuperação de Informação Musical (Musical
+de todas as áreas relacionadas à Recuperação de Informação Musical (Music
 Information Retrieval ou MIR), incluindo, mas não limitando-se a aprendizado de
 máquina, processamento de sinais e musicologia computacional (veja mais sobre os
 tópicos abaixo).
@@ -63,16 +63,16 @@ para serem consideradas para revisão.
 
 **Área de Conhecimento**
 <br>Durante a submissão, autores deverão escolher de uma lista de áreas de
-conhecimento. Por favor, indique a área mais apropriaa para seu trabalho para
+conhecimento. Por favor, indique a área mais apropriada para seu trabalho para
 podermos escolher a melhor pessoa para revisá-lo.
 
-**Autores Apresentando**
+**Autores Apresentadores**
 <br>Pelo menos um dos autores de cada submissão aceita deve registrar para o
-workshop. Caso nenhum autor(a) se registre antes do prazo, sua submissão será
-retirada do programa.
+workshop. Caso nenhum(a) autor(a) esteja registrado(a) antes do prazo, sua
+submissão será retirada do programa.
 
 **Publicação**
-<br>Artigos aceitos serão publicados nos anais da conferência. As publicações
+<br>Artigos aceitos serão publicados nos anais do workshop. As publicações
 serão feitas em um repositório de acesso aberto usando a licença Creative
 Commons Attribution 4.0 International License (CC BY 4.0).
 
@@ -93,7 +93,7 @@ ou
 que são baseados nos templates da ISMIR 2024. Autores devem submeter os
 artigos no formato PDF (tamanho máximo de 10MB). Submissões que manipularem o
 template (por exemplo, diminuindo o tamanho das margens) serão rejeitadas sem
-revisão. Todas as fontes devem estar embutidas no PDF.
+revisão. Todas as fontes devem estar incorporadas no PDF.
 
 
 **Tamanho do Artigo**
@@ -102,7 +102,7 @@ científico (incluindo figuras e tabelas) e N páginas adicionais contendo
 referências e uma declaração ética opcional. Artigos não devem conter apêndices.
 Materiais suplementares (não-PDF) podem ser submetidos em seu respectivo campo
 no formulário submissão do CMT. Artigos que não seguirem as restrições de
-tamanho e formato serão rejeitados sem revisão. Agradecimentos (opcional)
+tamanho e formato serão rejeitados sem revisão. Agradecimentos (opcionais)
 poderão ser incluídos apenas na versão final (camera-ready) da submissão.
 
 **Anonimato do Autor**
