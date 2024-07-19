@@ -6,9 +6,12 @@ title: "Llamada de Artículos"
 # Llamada de Artículos
 
 <br>
+* [English](../call4papers)
+* [Português](../call4papers_pt)
+<br>
 
 ### Fecha Límite
-Viernes 6 de septiembre de 2024 a las 23:59, en cualquier lugar de la Tierra, _Anywhere on Earth_ (AOE, UTC-12), a través de Microsoft CMT.
+Viernes 6 de septiembre de 2024 a las 23:59, en cualquier lugar de la tierra, _Anywhere on Earth_ (AOE, UTC-12), a través de Microsoft CMT.
 
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">Portal de Envío CMT</a>
