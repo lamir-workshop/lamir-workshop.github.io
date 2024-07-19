@@ -42,9 +42,7 @@ Los temas relevantes para LAMIR incluyen, entre otros:
 <br>Todas las revisiones serán doble ciergo. Los autores no deben saber los nombres de los revisores de su artículo y los revisores no deben saber los nombres de los autores.
 
 **Criterios**
-<br>Los artículos serán revisados con los mismos criterios de la [organización de ISMIR](https://ismir.net/reviewer-guidelines/).
-
-El encuentro es abierto a todos, pero priorizamos los artículos de autores de la comunidad latinoamericana y/o centrados en la música latinoamericana.
+<br>Los artículos serán revisados con los mismos criterios de la [organización de ISMIR](https://ismir.net/reviewer-guidelines/). El encuentro es abierto a todos, pero priorizamos los artículos de autores de la comunidad latinoamericana y/o centrados en la música latinoamericana.
 
 ### Envío de Artículos
 
@@ -65,8 +63,7 @@ Todos los artículos deben enviarse a través de Microsoft CMT antes de la fecha
 <br>Los artículos deben estar escritos en inglés. Los autores pueden usar inglés americano o inglés británico si son consistentes en todo el artículo.
 
 **Formato de Artículos**
-<br>Los artículos deben usar las plantillas de LAMIR 2024
-([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex) / [Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) / [Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)) cuales son basadas de las plantillas de ISMIR 2024. Los autores necesitan enviar sus artículos en el formato de PDF (el tamaño máximo de archivo es 10MB). Los manuscritos que manipulen la plantilla (por ejemplo, reduciendo los márgenes o el tamaño de fuente) pueden rechazarse sin revisión. Todas las fuentes deben estar incrustadas en el PDF.
+<br>Los artículos deben usar las plantillas de LAMIR 2024 ([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex) / [Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) / [Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)) cuales son basadas de las plantillas de ISMIR 2024. Los autores necesitan enviar sus artículos en el formato de PDF (el tamaño máximo de archivo es 10MB). Los manuscritos que manipulen la plantilla (por ejemplo, reduciendo los márgenes o el tamaño de fuente) pueden rechazarse sin revisión. Todas las fuentes deben estar incrustadas en el PDF.
 
 **Longitud de Artículos**
 <br> Los artículos deberán seguir un formato 4+N. Es decir, pueden contener hasta 4 páginas de contenido científico (incluidas figuras y tablas) y páginas adicionales que contengan solo referencias y una declaración ética opcional. Los artículos no deben contener apéndices. Los materiales complementarios que no estén en PDF (por ejemplo, audio) se pueden cargar en el campo correspondiente en el formulario de envío de CMT. Los trabajos que no se ajusten a la extensión y formato requeridos serán rechazados sin revisión. Los agradecimientos (opcionales) pueden incluirse únicamente en la versión final luego de aceptado el artículo.
