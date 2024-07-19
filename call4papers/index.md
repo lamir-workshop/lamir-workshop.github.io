@@ -3,7 +3,7 @@ layout: default
 title: "Call for Papers"
 ---
 
-# Call For Papers
+# Call for Papers
 
 <br>
 * [Português (PT)](../call4papers_pt)
