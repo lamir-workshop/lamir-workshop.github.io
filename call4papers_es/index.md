@@ -68,7 +68,7 @@ Todos los artículos deben enviarse a través de Microsoft CMT antes de la fecha
 **Longitud de Artículos**
 <br> Los artículos deberán seguir un formato 4+N. Es decir, pueden contener hasta 4 páginas de contenido científico (incluidas figuras y tablas) y páginas adicionales que contengan solo referencias y una declaración ética opcional. Los artículos no deben contener apéndices. Los materiales complementarios que no estén en PDF (por ejemplo, audio) se pueden cargar en el campo correspondiente en el formulario de envío de CMT. Los trabajos que no se ajusten a la extensión y formato requeridos serán rechazados sin revisión. Los agradecimientos (opcionales) pueden incluirse únicamente en la versión final luego de aceptado el artículo.
 
-**Anonimato del autor**
+**Anonimato del Autor**
 <br> No ponga los nombres de los autores debajo del título. Evite el uso de frases como “nuestro trabajo anterior” cuando se refiera a publicaciones anteriores de los autores. Verifique el material complementario para obtener información que pueda revelar la identidad de los autores. Evite proporcionar enlaces a sitios web que identifiquen a los autores. Para preservar el proceso de revisión doble ciego, evite publicar el manuscrito en sitios web públicos (por ejemplo, arXiv) o promocionar el trabajo de cualquier manera (por ejemplo, redes sociales, listas de correo) durante el período de revisión.
 
 ### Fechas Importantes Para Autores
