@@ -6,8 +6,8 @@ title: "Llamada de Artículos"
 # Llamada de Artículos
 
 <br>
-* [English](../call4papers)
-* [Português](../call4papers_pt)
+* [English (EN)](../call4papers)
+* [Português (PT)](../call4papers_pt)
 <br>
 
 ### Fecha Límite
