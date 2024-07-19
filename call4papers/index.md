@@ -7,7 +7,7 @@ title: "Call for Papers"
 
 <br>
 * [Português](../call4papers_pt)
-* [Español (disponible en breve)]()
+* [Español](../call4papers_es)
 <br>
 
 ### Deadline
