@@ -4,6 +4,10 @@ title: "Chamada de Trabalhos"
 ---
 
 # Chamada de Trabalhos
+
+<br>
+* [English (EN)](../call4papers)
+* [Español (ES)](../call4papers_es)
 <br>
 
 ### Data Limite para Submissões

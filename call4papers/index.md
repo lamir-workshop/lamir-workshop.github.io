@@ -3,11 +3,11 @@ layout: default
 title: "Call for Papers"
 ---
 
-# Call For Papers
+# Call for Papers
 
 <br>
-* [Português](../call4papers_pt)
-* [Español (disponible en breve)]()
+* [Português (PT)](../call4papers_pt)
+* [Español (ES)](../call4papers_es)
 <br>
 
 ### Deadline
