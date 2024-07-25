@@ -21,6 +21,9 @@ Please see the [Call for Papers](call4papers) page for more information.
 Latin American student authors of accepted papers.** More information on how to
 apply will be announced soon on the “Travel Awards” page.
 
+
+Please feel free to contact us with any questions or concerns related to the workshop at <a href="mailto:lamir.workshop@gmail.com">lamir.workshop@gmail.com</a>.
+
 ---
 
 **Important Dates**
