@@ -117,6 +117,9 @@ conference:
         full_name: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
         logo: capes.png
         url: https://www.gov.br/capes/pt-br
+      - name: Google
+        full_name: Google
+        logo: google.png
       - name: ISMIR
         full_name: International Society for Music Information Retrieval
         logo: ismir.png
