@@ -120,6 +120,7 @@ conference:
       - name: Google
         full_name: Google
         logo: google.png
+        url: https://www.google.com
       - name: ISMIR
         full_name: International Society for Music Information Retrieval
         logo: ismir.png
