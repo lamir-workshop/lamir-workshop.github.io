@@ -111,6 +111,17 @@ conference:
       # - name: Code of Conduct
       #   relative_url: /coc/
 
+  info_bars:
+    - title: Deadline Extended!
+      color: info
+      main_only: false
+      text: |
+        LAMIR 2024's paper submission deadline has been extended to <b>Friday, September 20, 2024</b>.
+
+        Note that you must still register your submission in the CMT platform by the original deadline (Friday, September 6, 2024), but you can modify it until the new deadline (Friday, September 20, 2024).
+
+        We are particularly interested in receiving contributions from students in Latin America. Please send us your work!
+
   sponsors:
     sponsors:
       - name: CAPES
