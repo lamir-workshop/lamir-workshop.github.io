@@ -10,8 +10,8 @@ title: "Call for Papers"
 * [Español (ES)](../call4papers_es)
 <br>
 
-### Deadline
-Friday, September 6, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
+### Deadline (Extended)
+Friday, September 20, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
 Microsoft CMT.
 
 <div class="row justify-content-center">
@@ -116,7 +116,7 @@ mailing lists) during the review period.
 ### Important Dates for Authors
 
 * Friday, July 12, 2024 - Submission Site Opens
-* Friday, September 6, 2024 - Abstract + Paper Submission Due
+* Friday, September 20, 2024 - Abstract + Paper Submission Due
 * Friday, October 4, 2024 - Acceptance Notification
 * Monday, November 25, 2024 - Author Registration Closes
 * Monday, December 9 - Wednesday, December 11, 2024 - Workshop

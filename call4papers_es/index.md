@@ -10,8 +10,8 @@ title: "Llamada de Artículos"
 * [Português (PT)](../call4papers_pt)
 <br>
 
-### Fecha Límite
-Viernes 6 de septiembre de 2024 a las 23:59, en cualquier lugar de la tierra, _Anywhere on Earth_ (AOE, UTC-12), a través de Microsoft CMT.
+### Fecha Límite (Extendida)
+Viernes 20 de septiembre de 2024 a las 23:59, en cualquier lugar de la tierra, _Anywhere on Earth_ (AOE, UTC-12), a través de Microsoft CMT.
 
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">Portal de Envío CMT</a>
@@ -73,7 +73,7 @@ Todos los artículos deben enviarse a través de Microsoft CMT antes de la fecha
 
 ### Fechas Importantes Para Autores
 * Viernes 12 de julio de 2024 - Se abre el sitio de presentación de resúmenes y artículos
-* Viernes 6 de septiembre de 2024 - Fecha límite para el envío de resúmenes y artículos 
+* Viernes 20 de septiembre de 2024 - Fecha límite para el envío de resúmenes y artículos 
 * Viernes 4 de octubre de 2024 - Notificación de aceptación 
 * Lunes 25 de noviembre de 2024 - Se cierra el registro de autores 
 * Lunes 9 de diciembre al Miércoles 11 de diciembre de 2024 - Encuentro

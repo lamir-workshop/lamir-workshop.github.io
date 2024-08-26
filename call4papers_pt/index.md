@@ -10,8 +10,8 @@ title: "Chamada de Trabalhos"
 * [Español (ES)](../call4papers_es)
 <br>
 
-### Data Limite para Submissões
-Sexta-feira, 6 de setembro de 2024, às 23:59 Em qualquer lugar da Terra -
+### Data Limite para Submissões (Estendida)
+Sexta-feira, 20 de setembro de 2024, às 23:59 Em qualquer lugar da Terra -
 *Anywhere on Earth* (AoE), via Microsoft CMT.
 
 <div class="row justify-content-center">
@@ -119,10 +119,10 @@ públicos (ex, arXiv) ou promover o trabalho de qualquer maneira (redes sociais,
 listas de email etc) durante o período de revisão.
 
 
-### Datas importantes para autores
+### Datas Importantes Para Autores
 * Sexta-feira, 12 de julho de 2024 - Abertura do sistema de submissão
-* Sexta-feira, 6 de setembro de 2024 - Data limite para submissão de Resumo +
-* Artigo
+* Sexta-feira, 20 de setembro de 2024 - Data limite para submissão de Resumo +
+Artigo
 * Sexta-feira, 4 de outubro de 2024 - Notificação de aceitação
 * Segunda-feira, 25 de novembro de 2024 - Encerramento das inscrições de autores
 * Segunda-feira a quarta-feira, 9 - 11 de dezembro de 2024 - Workshop
