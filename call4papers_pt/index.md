@@ -12,11 +12,11 @@ title: "Chamada de Trabalhos"
 
 ### Datas Limites para Submissões
 
-... às 23:59, em qualquer lugar da Terra, _Anywhere on Earth (AOE, UTC-12)_, ... via Microsoft CMT.
+Todos os prazos estão definidos para 23:59, em qualquer lugar da Terra, _Anywhere on Earth (AOE, UTC-12)_, e todas as submissões devem ser feitas via Microsoft CMT.
 
-**Data Limite para Submissão de Resumo** - Sexta-feira, 6 de setembro de 2024
+**Data Limite para Submissão do Resumo** - Sexta-feira, 6 de setembro de 2024
 
-**Data Limite para Submissão de Artigo (Estendida!)** - Sexta-feira, 20 de setembro de 2024
+**Data Limite para Submissão do Artigo (Estendida!)** - Sexta-feira, 20 de setembro de 2024
 
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">Portal de Submissão CMT</a>
@@ -125,8 +125,8 @@ listas de email etc) durante o período de revisão.
 
 ### Datas Importantes Para Autores
 * Sexta-feira, 12 de julho de 2024 - Abertura do sistema de submissão
-* **Sexta-feira, 6 de setembro de 2024 - Data limite para submissão de Resumo**
-* **Sexta-feira, 20 de setembro de 2024 - Data limite para submissão de Artigo (Estendida!)**
+* **Sexta-feira, 6 de setembro de 2024 - Data limite para submissão do Resumo**
+* **Sexta-feira, 20 de setembro de 2024 - Data limite para submissão do Artigo (Estendida!)**
 * Sexta-feira, 4 de outubro de 2024 - Notificação de aceitação
 * Segunda-feira, 25 de novembro de 2024 - Encerramento das inscrições de autores
 * Segunda-feira a quarta-feira, 9 - 11 de dezembro de 2024 - Workshop
