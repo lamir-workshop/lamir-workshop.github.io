@@ -116,9 +116,10 @@ conference:
       color: info
       main_only: false
       text: |
-        LAMIR 2024's paper submission deadline has been extended to <b>Friday, September 20, 2024</b>.
+        LAMIR 2024's <b>paper</b> submission deadline has been extended to <b>Friday, September 20, 2024</b>.
 
-        Note that you must still register your submission in the CMT platform by the original deadline (Friday, September 6, 2024), but you can modify it until the new deadline (Friday, September 20, 2024).
+        Note that you must still register your submission with your <b>abstract</b> in the CMT platform by the original deadline of <b>Friday, September 6, 2024</b>.
+        You may modify it and submit your paper until the new deadline (Friday, September 20, 2024).
 
         We are particularly interested in receiving contributions from students in Latin America. Please send us your work!
 
