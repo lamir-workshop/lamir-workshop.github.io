@@ -10,9 +10,13 @@ title: "Call for Papers"
 * [Español (ES)](../call4papers_es)
 <br>
 
-### Deadline (Extended)
-Friday, September 20, 2024, at 11:59 PM, Anywhere on Earth (AOE, UTC-12) on
-Microsoft CMT.
+### Deadlines
+
+All deadlines are 11:59 PM, Anywhere on Earth (AOE, UTC-12), and all submissions must be made through Microsoft CMT.
+
+**Abstract Deadline** - Friday, September 6, 2024
+
+**Paper Deadline (Extended!)** - Friday, September 20, 2024
 
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
@@ -116,7 +120,8 @@ mailing lists) during the review period.
 ### Important Dates for Authors
 
 * Friday, July 12, 2024 - Submission Site Opens
-* Friday, September 20, 2024 - Abstract + Paper Submission Due
+* **Friday, September 6, 2024 - Abstract Submission Due**
+* **Friday, September 20, 2024 - Paper Submission Due (Extended!)**
 * Friday, October 4, 2024 - Acceptance Notification
 * Monday, November 25, 2024 - Author Registration Closes
 * Monday, December 9 - Wednesday, December 11, 2024 - Workshop
