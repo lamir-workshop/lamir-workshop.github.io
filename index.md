@@ -30,11 +30,11 @@ Please feel free to contact us with any questions or concerns related to the wor
 * Friday, July 12, 2024 - Submission Site Opens
 * **Friday, September 6, 2024 - Abstract Submission Due**
 * **Friday, September 20, 2024 - Paper Submission Due (Extended!)**
-* Friday, October 4, 2024 - Acceptance Notification
-* Friday, October 4, 2024 - Travel Award Applications Open
-* Friday, October 11, 2024 - Registration Opens
-* Friday, October 11, 2024 - Travel Award Applications Close
-* Friday, October 18, 2024 - Travel Award Notification
+* Friday, October 18, 2024 - Acceptance Notification
+* Friday, October 18, 2024 - Travel Award Applications Open
+* Friday, October 25, 2024 - Registration Opens
+* Friday, October 25, 2024 - Travel Award Applications Close
+* Friday, November 1, 2024 - Travel Award Notification
 * Monday, November 25, 2024 - Early / Author Registration Closes
 * Monday, December 9, 2024 - Standard Registration Closes
 * Monday, December 9 to Wednesday, December 11, 2024 - Workshop

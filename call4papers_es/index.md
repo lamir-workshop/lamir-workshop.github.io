@@ -24,7 +24,7 @@ Todas las fechas límites son a las 23:59, en cualquier lugar de la tierra,  _An
 <br>
 
 ### Información General y Temas
-El comité del Encuentro Latinoamericano de Recuperación de Información Musical (LAMIR) 2024 invita a enviar contribuciones para presentar en el evento en forma de artículo completo. Alentamos la presentación de investigaciones de todas las áreas relacionadas con la recuperación de información musical (MIR), incluidos, entre otros, aprendizaje automático, procesamiento de señales y musicología computacional (ver más temas a continuación). 
+El comité del Encuentro Latinoamericano de Recuperación de Información Musical (LAMIR) 2024 invita a enviar contribuciones para presentar en el evento en forma de artículo completo. Alentamos la presentación de investigaciones de todas las áreas relacionadas con la recuperación de información musical (MIR), incluidos, entre otros, aprendizaje automático, procesamiento de señales y musicología computacional (ver más temas a continuación).
 
 El encuentro está abierto a todos, aunque priorizamos trabajos escritos por miembros de la comunidad latinoamericana y aquellos centrados en estilos musicales latinoamericanos. Por eso, que los artículos estén centrados en la música latinoamericana no es necesario, pero lo **recomendamos fuertemente**. Este evento será una oportunidad excelente para conocer otros investigadores y mejorar la representación latinoamericana en MIR.
 
@@ -80,8 +80,8 @@ Todos los artículos deben enviarse a través de Microsoft CMT antes de la fecha
 * Viernes 12 de julio de 2024 - Se abre el sitio de presentación de resúmenes y artículos
 * **Viernes 6 de septiembre de 2024 - Fecha límite para el envío de resúmenes**
 * **Viernes 20 de septiembre de 2024 - Fecha límite para el envío de artículos (¡Extendida!)**
-* Viernes 4 de octubre de 2024 - Notificación de aceptación 
-* Lunes 25 de noviembre de 2024 - Se cierra el registro de autores 
+* Viernes 18 de octubre de 2024 - Notificación de aceptación
+* Lunes 25 de noviembre de 2024 - Se cierra el registro de autores
 * Lunes 9 de diciembre al Miércoles 11 de diciembre de 2024 - Encuentro
 
 <div class="row justify-content-center">
