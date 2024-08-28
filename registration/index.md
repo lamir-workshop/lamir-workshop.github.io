@@ -5,7 +5,7 @@ title: "Registration"
 
 # Registration
 <br>
-Registration for LAMIR 2024 will open on Friday, October 11, 2024. We encourage attendees to register for the workshop early. Authors with accepted papers who plan to attend must register by Monday, November 25, 2024.
+Registration for LAMIR 2024 will open on Friday, October 25, 2024. We encourage attendees to register for the workshop early. Authors with accepted papers who plan to attend must register by Monday, November 25, 2024.
 
 To support the accessibility of the workshop while ensuring a high-quality experience, a registration fee applies to all attendees. Please see the cost of registration below.
 
@@ -14,7 +14,7 @@ To support the accessibility of the workshop while ensuring a high-quality exper
   <thead>
     <tr>
       <th scope="col" class="col-title text-left"></th>
-      <th scope="col" class="col-title text-center">Early Bird<br>(October 11 - November 25)</th>
+      <th scope="col" class="col-title text-center">Early Bird<br>(October 25 - November 25)</th>
       <th scope="col" class="col-title text-center">Standard<br>(November 26 - December 9)</th>
     </tr>
   </thead>
