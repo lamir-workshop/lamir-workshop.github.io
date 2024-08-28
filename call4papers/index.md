@@ -12,11 +12,13 @@ title: "Call for Papers"
 
 ### Deadlines
 
-All deadlines are 11:59 PM, Anywhere on Earth (AOE, UTC-12), and all submissions must be made through Microsoft CMT.
+All deadlines are 11:59 PM, _Anywhere on Earth_ (AOE, UTC-12), and all submissions must be made through Microsoft CMT.
 
 **Abstract Deadline** - Friday, September 6, 2024
 
 **Paper Deadline (Extended!)** - Friday, September 20, 2024
+
+The abstract and title may be modified until the paper deadline.
 
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
