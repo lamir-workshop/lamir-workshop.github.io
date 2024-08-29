@@ -18,6 +18,8 @@ Todas las fechas límites son a las 23:59, en cualquier lugar de la tierra,  _An
 
 **Fecha Límite de Artículo (¡Extendida!)** - Viernes 20 de septiembre de 2024
 
+El resumen y el título pueden ser modificados hasta la fecha límite del artículo.
+
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">Portal de Envío CMT</a>
 </div>
