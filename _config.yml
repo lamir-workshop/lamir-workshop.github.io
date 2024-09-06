@@ -112,6 +112,13 @@ conference:
       #   relative_url: /coc/
 
   info_bars:
+    - title: Final Abstract Deadline
+      color: danger
+      main_only: false
+      text: |
+        Due to technical issues with Microsoft CMT, we have chosen to leave the abstract submission portal open until <b>Monday, September 9th</b> at <b>5:00 PM EDT (UTC-4)</b>. New submissions will not be accepted after this time.
+
+        We apologize for any inconvenience this may have caused!
     - title: Deadline Extended!
       color: info
       main_only: false
