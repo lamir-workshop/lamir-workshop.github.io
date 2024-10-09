@@ -1,0 +1,5 @@
+---
+name: Coffee
+categories:
+  - Social
+---

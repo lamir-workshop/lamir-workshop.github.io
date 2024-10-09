@@ -59,10 +59,12 @@ conference:
 
   talks:
     main_categories:
-      - name: category 1
+      - name: Keynote
         color: info
-      - name: category 2
+      - name: Social
         color: success
+      - name: Other
+        color: dark
 
   link_preview:
     disable: false
