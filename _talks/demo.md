@@ -1,4 +1,5 @@
 ---
 name: Demos
 categories:
+  - Code
 ---

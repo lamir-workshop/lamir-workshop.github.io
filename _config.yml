@@ -65,6 +65,8 @@ conference:
         color: success
       - name: Other
         color: dark
+      - name: Code
+        color: primary
 
   link_preview:
     disable: false
