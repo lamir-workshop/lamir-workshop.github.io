@@ -134,6 +134,9 @@ conference:
         full_name: KHIPU
         logo: khipu.png
         url: https://khipu.ai
+      - name: Music AI
+        logo: musicai.png
+        url: https://music.ai/
     institutional_support:
       - name: IEEE SPS
         full_name: IEEE Signal Processing Society
