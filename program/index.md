@@ -3,7 +3,10 @@ layout: default
 title: "Program"
 ---
 
-## Tentative schedule
+# Program
+<br>
+
+**This is a tentative schedule and might be changed.**
 
 <table class="program-table mb-0 mx-auto"><thead>
   <tr>
@@ -15,45 +18,69 @@ title: "Program"
 <tbody>
   <tr>
     <td scope="row" class="text-center">8h30-9h</td>
-    <td scope="row" class="checkin text-center" colspan="3" rowspan="2">Check in</td>
+    <td scope="row" class="checkin text-center" colspan="3" rowspan="2">
+      <a class="text-reset" href="../talks/checkin/">Check-in</a>
+    </td>
   </tr>
   <tr>
     <td scope="row" class="text-center">9h-9h30</td>
   </tr>
   <tr>
     <td scope="row" class="text-center">9h30-10h</td>
-    <td scope="row" class="text-center coffee" colspan="3">Coffee</td>
+    <td scope="row" class="text-center coffee" colspan="3">
+      <a class="text-reset" href="../talks/coffee/">Coffee</a>
+	  </td>
   </tr>
   <tr>
     <td scope="row" class="text-center">10h-10h30</td>
-    <td scope="row" class="text-center opening">Opening</td>
-    <td scope="row" class="text-center industry" rowspan="2">Industry talk</td>
-    <td scope="row" class="text-center keynote" rowspan="2">Keynote 2</td>
+    <td scope="row" class="text-center opening">
+      <a class="text-reset" href="../talks/opening/">Opening</a>
+    </td>
+    <td scope="row" class="text-center industry" rowspan="2">
+      <a class="text-reset" href="../talks/industry/">Industry talk</a>
+    </td>
+    <td scope="row" class="text-center keynote" rowspan="2">
+      <a class="text-reset" href="../talks/keynote2/">Keynote 2</a>
+    </td>
   </tr>
   <tr>
     <td scope="row" class="text-center">10h30-11h</td>
-    <td scope="row" class="text-center tutorial" rowspan="3">Tutorial</td>
+    <td scope="row" class="text-center tutorial" rowspan="3">
+      <a class="text-reset" href="../talks/tutorial/">Tutorial</a>
+    </td>
   </tr>
   <tr>
     <td scope="row" class="text-center">11h-11h30</td>
-    <td scope="row" class="text-center keynote" rowspan="2">Keynote 1</td>
-    <td scope="row" class="text-center keynote" rowspan="2">Keynote 3</td>
+    <td scope="row" class="text-center keynote" rowspan="2">
+      <a class="text-reset" href="../talks/keynote1/">Keynote 1</a>
+    </td>
+    <td scope="row" class="text-center keynote" rowspan="2">
+      <a class="text-reset" href="../talks/keynote3/">Keynote 3</a>
+    </td>
   </tr>
   <tr>
     <td scope="row" class="text-center">11h30-12h</td>
   </tr>
   <tr>
     <td scope="row" class="text-center">12h-12h30</td>
-    <td scope="row" class="text-center lunch" colspan="3" rowspan="2">Lunch</td>
+    <td scope="row" class="text-center lunch" colspan="3" rowspan="2">
+      <a class="text-reset" href="../talks/lunch/">Lunch</a>
+    </td>
   </tr>
   <tr>
     <td scope="row" class="text-center">12h30-13h</td>
   </tr>
   <tr>
     <td scope="row" class="text-center">13h-13h30</td>
-    <td scope="row" class="text-center tutorial" rowspan="3">Hackathon &amp; coffee</td>
-    <td scope="row" class="text-center paper" rowspan="3">Paper session &amp; coffee</td>
-    <td scope="row" class="text-center paper" rowspan="3">Paper session &amp; coffee</td>
+    <td scope="row" class="text-center tutorial" rowspan="3">
+      <a class="text-reset" href="../talks/hackathon/">Hackathon &amp; coffee</a>
+    </td>
+    <td scope="row" class="text-center paper" rowspan="3">
+      <a class="text-reset" href="../talks/paper/">Paper session &amp; coffee</a>
+    </td>
+    <td scope="row" class="text-center paper" rowspan="3">
+      <a class="text-reset" href="../talks/paper/">Paper session &amp; coffee</a>
+    </td>
   </tr>
   <tr>
     <td scope="row" class="text-center">13h30-14h</td>
@@ -63,9 +90,15 @@ title: "Program"
   </tr>
   <tr>
     <td scope="row" class="text-center">14h30-15h</td>
-    <td scope="row" class="text-center demo" rowspan="3">Demos</td>
-    <td scope="row" class="text-center music" rowspan="3">Music program</td>
-    <td scope="row" class="text-center opening">Closing</td>
+    <td scope="row" class="text-center demo" rowspan="3">
+      <a class="text-reset" href="../talks/demos/">Demos</a>
+    </td>
+    <td scope="row" class="text-center music" rowspan="3">
+      <a class="text-reset" href="../talks/music_program/">Music program</a>
+    </td>
+    <td scope="row" class="text-center opening">
+      <a class="text-reset" href="../talks/closing/">Closing</a>
+    </td>
   </tr>
   <tr>
     <td scope="row" class="text-center">15h-15h30</td>
