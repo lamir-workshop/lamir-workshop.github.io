@@ -282,6 +282,56 @@ main.container img {
 	}
 }
 
+.program-table {
+  @extend .table;
+
+	th {
+		background-color: $light;
+		vertical-align: top;
+		border-width: 2px;
+	}
+
+	td {
+		vertical-align: top;
+	}
+
+	// define all colors
+	.checkin {
+		background-color: #f6c08b;
+	}
+	.coffee {
+		background-color: #fed254;
+	}
+	.opening {
+		background-color: #d1e6c9;
+	}
+	.industry{
+		background-color: #f0c0c1;
+	}
+	.keynote{
+		background-color: #c5dbf0;
+	}
+	.tutorial{
+		background-color: #e4c5d4;
+	}
+	.lunch{
+		background-color: #c0c0c0;
+	}
+	.paper{
+		background-color: #fff0c1;
+	}
+	.demo{
+		background-color: #b4a7d6;
+	}
+	.music{
+		background-color: #c6d9dc;
+	}
+	.none{
+		background-color: #333333;
+	}
+
+}
+
 .jumbotron {
 	background-color: $light;
 }

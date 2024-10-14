@@ -1,0 +1,5 @@
+---
+name: Closing
+categories:
+  - Other
+---

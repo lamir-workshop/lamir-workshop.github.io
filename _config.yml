@@ -4,7 +4,7 @@ description: >-
   Join us for the 1st Latin American Music Information Retrieval (LAMIR) workshop, from December 9 to 11, 2024, in Rio de Janeiro.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://lamir-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
@@ -59,10 +59,14 @@ conference:
 
   talks:
     main_categories:
-      - name: category 1
+      - name: Keynote
         color: info
-      - name: category 2
+      - name: Social
         color: success
+      - name: Other
+        color: dark
+      - name: Code
+        color: primary
 
   link_preview:
     disable: false
@@ -97,6 +101,8 @@ conference:
         relative_url: /registration/
       - name: Program
         relative_url: /program/
+      - name: Talks
+        relative_url: /talks/
       # - live: true
       # - name: Speakers
       #   relative_url: /speakers/
