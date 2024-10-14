@@ -3,7 +3,7 @@ days:
   abbr: Mon
   date: 2024-12-09
   rooms:
-  - name: Room A
+  - name: Room TBA
     talks:
       - name: Check-in
         time_start: '8:30'
@@ -30,7 +30,7 @@ days:
   abbr: Tue
   date: 2024-12-10
   rooms:
-  - name: Room A
+  - name: Room TBA
     talks:
       - name: Check-in
         time_start: '8:30'
@@ -57,7 +57,7 @@ days:
   abbr: Wed
   date: 2024-12-11
   rooms:
-  - name: Room A
+  - name: Room TBA
     talks:
       - name: Check-in
         time_start: '8:30'
