@@ -18,7 +18,7 @@ Please note that the information provided in the application will be used only f
 
 The travel award application deadline is **23:59 on Friday, October 25, 2024 (AOE, UTC-12)**.
 
-Award applicants will be notified of the decision by Friday, November 4, 2024. We ask that applicants please wait to register for the workshop until notifications have been sent out.
+Award applicants will be notified of the decision by Friday, November 1, 2024. We ask that applicants please wait to register for the workshop until notifications have been sent out.
 
 Please access the application using the link below:
 
