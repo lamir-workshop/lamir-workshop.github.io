@@ -7,6 +7,8 @@ title: "Registration"
 <br>
 Registration for LAMIR 2024 will open on Friday, October 25, 2024. We encourage attendees to register for the workshop early. Authors with accepted papers who plan to attend must register by Monday, November 25, 2024.
 
+Students with accepted papers to the workshop are encouraged to apply for a travel award to financially support their attendance of LAMIR. Please see the [Travel Awards](../travel_awards) page for more information on the application process.
+
 To support the accessibility of the workshop while ensuring a high-quality experience, a registration fee applies to all attendees. Please see the cost of registration below.
 
 
