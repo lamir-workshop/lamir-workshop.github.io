@@ -17,9 +17,9 @@ Federal do Rio de Janeiro (UFRJ) in Rio de Janeiro, Brazil.
 
 Please see the [Call for Papers](call4papers) page for more information.
 
-**We will be offering financial support in the form of travel awards to local
-Latin American student authors of accepted papers.** More information on how to
-apply will be announced soon on the “Travel Awards” page.
+**We are offering financial support in the form of travel awards to local
+Latin American student authors of accepted papers.** For more information on how to
+apply, please visit the [Travel Awards](travel_awards) page.
 
 
 Please feel free to contact us with any questions or concerns related to the workshop at <a href="mailto:lamir.workshop@gmail.com">lamir.workshop@gmail.com</a>.
@@ -28,8 +28,8 @@ Please feel free to contact us with any questions or concerns related to the wor
 
 **Important Dates**
 * Friday, July 12, 2024 - Submission Site Opens
-* **Friday, September 6, 2024 - Abstract Submission Due**
-* **Friday, September 20, 2024 - Paper Submission Due (Extended!)**
+* Friday, September 6, 2024 - Abstract Submission Due
+* Friday, September 20, 2024 - Paper Submission Due
 * Friday, October 18, 2024 - Acceptance Notification
 * Friday, October 18, 2024 - Travel Award Applications Open
 * Friday, October 25, 2024 - Registration Opens
@@ -40,7 +40,3 @@ Please feel free to contact us with any questions or concerns related to the wor
 * Monday, December 9 to Wednesday, December 11, 2024 - Workshop
 
 ---
-
-<div class="row justify-content-center">
-  <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
-</div>

@@ -99,6 +99,8 @@ conference:
         relative_url: /call4papers/
       - name: Registration
         relative_url: /registration/
+      - name: Travel Awards
+        relative_url: /travel_awards/
       - name: Program
         relative_url: /program/
       - name: Talks
@@ -108,8 +110,6 @@ conference:
       #   relative_url: /speakers/
       - name: Location
         relative_url: /location/
-      # - name: Travel Awards
-      #   relative_url: /travel_awards/
       - name: Sponsors
         relative_url: /sponsors/
       - name: Committee
@@ -117,11 +117,14 @@ conference:
       # - name: Code of Conduct
       #   relative_url: /coc/
 
-  # info_bars:
-  #   - title:
-  #     color: info
-  #     main_only: false
-  #     text:
+  info_bars:
+    - title:
+      color: info
+      main_only: true
+      text: |
+        Applications for travel awards are now open to students of accepted papers!
+        Please visit the <a href="/travel_awards">Travel Awards</a> page for more information.
+
   sponsors:
     sponsors:
       - name: CAPES
