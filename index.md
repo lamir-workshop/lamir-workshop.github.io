@@ -34,6 +34,7 @@ Please feel free to contact us with any questions or concerns related to the wor
 * Friday, October 18, 2024 - Travel Award Applications Open
 * Friday, October 25, 2024 - Registration Opens
 * Friday, October 25, 2024 - Travel Award Applications Close
+* **Friday, November 1, 2024 - Camera-Ready Submission Due**
 * Friday, November 1, 2024 - Travel Award Notification
 * Monday, November 25, 2024 - Early / Author Registration Closes
 * Monday, December 9, 2024 - Standard Registration Closes
