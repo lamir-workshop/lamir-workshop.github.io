@@ -41,3 +41,7 @@ Please feel free to contact us with any questions or concerns related to the wor
 * Monday, December 9 to Wednesday, December 11, 2024 - Workshop
 
 ---
+
+<div class="row justify-content-center">
+  <a class="application-btn" href="https://forms.gle/RRSutGknLvXxrCBL8">Register Here!</a>
+</div>

@@ -118,12 +118,13 @@ conference:
       #   relative_url: /coc/
 
   info_bars:
-    - title:
-      color: info
+    - title: Register Now!
+      color: success
       main_only: true
       text: |
-        Applications for travel awards are now open to students of accepted papers!
-        Please visit the <a href="/travel_awards">Travel Awards</a> page for more information.
+        Registration for the workshop is now open.
+        Please visit the <b><a href="/registration">Registration</a></b> page for more
+        information on how to register.
 
   sponsors:
     sponsors:
