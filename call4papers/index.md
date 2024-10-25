@@ -122,9 +122,10 @@ mailing lists) during the review period.
 ### Important Dates for Authors
 
 * Friday, July 12, 2024 - Submission Site Opens
-* **Friday, September 6, 2024 - Abstract Submission Due**
-* **Friday, September 20, 2024 - Paper Submission Due (Extended!)**
+* Friday, September 6, 2024 - Abstract Submission Due
+* Friday, September 20, 2024 - Paper Submission Due (Extended!)
 * Friday, October 18, 2024 - Acceptance Notification
+* **Friday, November 1, 2024 - Camera-Ready Submission Due**
 * Monday, November 25, 2024 - Author Registration Closes
 * Monday, December 9 - Wednesday, December 11, 2024 - Workshop
 

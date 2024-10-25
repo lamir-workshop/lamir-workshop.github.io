@@ -11,9 +11,9 @@ title: "Program"
 <table class="program-table mb-0 mx-auto"><thead>
   <tr>
     <th scope="col" class="col-title text-left"></th>
-    <th scope="col" class="col-title text-center">Monday, 09/12</th>
-    <th scope="col" class="col-title text-center">Saturday, 10/12</th>
-    <th scope="col" class="col-title text-center">Tuesday, 11/12</th>
+    <th scope="col" class="col-title text-center">Monday<br>Dec 9th</th>
+    <th scope="col" class="col-title text-center">Tuesday<br>Dec 10th</th>
+    <th scope="col" class="col-title text-center">Wednesday<br>Dec 11th</th>
   </tr></thead>
 <tbody>
   <tr>
