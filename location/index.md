@@ -6,6 +6,16 @@ title: "Location"
 # Location
 
 <br>
+### Workshop Events
+
+All the events (except Lunch) will be held at:
+	Auditório da COPPE (CT2)
+	Rua Moniz Aragão, 360, Bloco 1, Térreo - Cidade Universitária
+	Rio de Janeiro, RJ
+	21941-594
+	Brasil
+
+<br>
 
 ### Rio de Janeiro
 
