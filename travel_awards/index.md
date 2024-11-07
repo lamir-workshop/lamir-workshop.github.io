@@ -15,7 +15,8 @@ Applicants must meet the following criteria to be considered for an award:
 
 Applicants will be asked to provide verification of enrollment. This
 confirmation can be submitted in the form of an enrollment certification
-document, official/unofficial transcript, a signed letter by a faculty advisor.
+document, official/unofficial transcript, a signed letter by a faculty advisor,
+etc.
 If you are unsure whether your form of documentation is acceptable, please
 feel free to email us at <a href="mailto:lamir.workshop@gmail.com">lamir.workshop@gmail.com</a>.
 
