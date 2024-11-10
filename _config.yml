@@ -95,8 +95,12 @@ conference:
       img: 'fundos-no-bg.png'
       url: '/'
     links:
-      - name: Call for Papers
-        relative_url: /call4papers/
+      - name: Author Information
+        menu:
+          - name: Call for Papers
+            relative_url: /call4papers/
+          - name: Posters
+            relative_url: /poster_session/
       - name: Registration
         relative_url: /registration/
       - name: Travel Awards
