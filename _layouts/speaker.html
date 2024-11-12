@@ -64,42 +64,42 @@
     {% endfor %}
   {% endfor %}
 
-  {% if active_speaker %}
-    <h5 class="mt-4 mb-0">{{ site.data.lang[site.conference.lang].speaker.talks | default: "Talks at this conference" }}:</h5>
+  <!-- {% if active_speaker %} -->
+  <!--   <h5 class="mt-4 mb-0">{{ site.data.lang[site.conference.lang].speaker.talks | default: "Talks at this conference" }}:</h5> -->
 
-    <table class="list-program">
-      {%- for d in site.data.program.days -%}
-        {%- include partials/get_day_hash.html -%}
-        {%- for r in d.rooms -%}
-          {%- for t in r.talks -%}
-            {%- assign talk = site.talks | where: 'name', t.name | first -%}
+  <!--   <table class="list-program"> -->
+  <!--     {%- for d in site.data.program.days -%} -->
+  <!--       {%- include partials/get_day_hash.html -%} -->
+  <!--       {%- for r in d.rooms -%} -->
+  <!--         {%- for t in r.talks -%} -->
+  <!--           {%- assign talk = site.talks | where: 'name', t.name | first -%} -->
 
-            {%- for speaker_name in talk.speakers -%}
-              {%- if speaker_name == speaker.name -%}
+  <!--           {%- for speaker_name in talk.speakers -%} -->
+  <!--             {%- if speaker_name == speaker.name -%} -->
 
-                {%- include partials/get_main_category.html -%}
+  <!--               {%- include partials/get_main_category.html -%} -->
 
-                <tr>
-                  <td class="pr-2 py-0">
-                    {%- include partials/get_talk_time.html -%}
-                    {%- assign talk_time_styleclass = "w-100" -%}
-                    {%- include partials/show_talk_time.html -%}
-                  </td>
-                  <td class="pl-2 py-0 align-baseline border-soft-{{ main_cat_color }}">
-                    <span class="mr-2">
-                      {%- include partials/show_talk.html -%}
-                    </span>
-                    {%- include partials/show_live_button.html -%}
-                  </td>
-                </tr>
+  <!--               <tr> -->
+  <!--                 <td class="pr-2 py-0"> -->
+  <!--                   {%- include partials/get_talk_time.html -%} -->
+  <!--                   {%- assign talk_time_styleclass = "w-100" -%} -->
+  <!--                   {%- include partials/show_talk_time.html -%} -->
+  <!--                 </td> -->
+  <!--                 <td class="pl-2 py-0 align-baseline border-soft-{{ main_cat_color }}"> -->
+  <!--                   <span class="mr-2"> -->
+  <!--                     {%- include partials/show_talk.html -%} -->
+  <!--                   </span> -->
+  <!--                   {%- include partials/show_live_button.html -%} -->
+  <!--                 </td> -->
+  <!--               </tr> -->
 
-              {%- endif -%}
-            {%- endfor -%}
-          {%- endfor -%}
-        {%- endfor -%}
-      {%- endfor -%}
-    </table>
-  {% endif %}
+  <!--             {%- endif -%} -->
+  <!--           {%- endfor -%} -->
+  <!--         {%- endfor -%} -->
+  <!--       {%- endfor -%} -->
+  <!--     {%- endfor -%} -->
+  <!--   </table> -->
+  <!-- {% endif %} -->
 
   <p class="d-print-none mt-5">
     <a href="{{ page.collection | prepend: '/' | prepend: site.baseurl }}" class="btn btn-light">
