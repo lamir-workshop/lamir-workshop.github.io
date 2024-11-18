@@ -16,7 +16,7 @@ discuss the research. Additionally, authors may use their laptops to run demos
 or show examples.
 
 The final PDF version of the poster should be uploaded to the CMT platform as
-**Supplementary Material** by **November 25, 2024 (AoE)**.
+**Supplementary Material** by **December 2, 2024 (AoE)**.
 
 ### Preparation Guidelines:
 
