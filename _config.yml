@@ -61,6 +61,8 @@ conference:
     main_categories:
       - name: Keynote
         color: info
+      - name: Industry
+        color: info
       - name: Social
         color: success
       - name: Other
