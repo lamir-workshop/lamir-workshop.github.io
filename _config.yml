@@ -131,13 +131,6 @@ conference:
         Registration for the workshop is now open.
         Please visit the <b><a href="/registration">Registration</a></b> page for more
         information on how to register.
-    - title: Non-Author Travel Award Applications!
-      color: success
-      main_only: true
-      text: |
-        We are now accepting travel award applications for local non-author students.
-        Please visit the <b><a href="/travel_awards">Travel Awards</a></b> page for more
-        information on eligibility criteria.
 
   sponsors:
     sponsors:
