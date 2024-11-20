@@ -127,8 +127,8 @@ listas de email etc) durante o período de revisão.
 
 ### Datas Importantes Para Autores
 * Sexta-feira, 12 de julho de 2024 - Abertura do sistema de submissão
-* **Sexta-feira, 6 de setembro de 2024 - Data limite para submissão do Resumo**
-* **Sexta-feira, 20 de setembro de 2024 - Data limite para submissão do Artigo (Estendida!)**
+* Sexta-feira, 6 de setembro de 2024 - Data limite para submissão do Resumo
+* Sexta-feira, 20 de setembro de 2024 - Data limite para submissão do Artigo (Estendida!)
 * Sexta-feira, 18 de outubro de 2024 - Notificação de aceitação
 * Segunda-feira, 25 de novembro de 2024 - Encerramento das inscrições de autores
 * Segunda-feira a quarta-feira, 9 - 11 de dezembro de 2024 - Workshop
