@@ -101,7 +101,7 @@ conference:
         menu:
           - name: Call for Papers
             relative_url: /call4papers/
-          - name: Posters
+          - name: Poster Presentations
             relative_url: /poster_session/
       - name: Registration
         relative_url: /registration/
