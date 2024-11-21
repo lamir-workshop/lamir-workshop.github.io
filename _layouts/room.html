@@ -8,11 +8,6 @@
     {{ this_room.name }}
   </h1>
 
-  <!-- title shown in browser: -->
-  <h1 class="display-5 mb-3 d-print-none text-break">
-    {{ site.data.lang[site.conference.lang].location.rooms | default: "Rooms" }}
-  </h1>
-
   {% include partials/navbar_rooms.html %}
 
   {{ content }}
