@@ -25,8 +25,8 @@ Please note that the information provided in the application will be used only f
 
 ### Important Dates
 
-* **Author Awards [CLOSED]**: 23:59 on Friday, October 25, 2024 (AOE, UTC-12). Award applicants will be notified of the decision by Friday, November 1, 2024. We ask that applicants please wait to register for the workshop until notifications have been sent out.
-* **Non-Author Awards [CLOSED]**: 23:59 on Friday, November 15, 2024 (AOE, UTC-12). Award applicants will be notified of the decision by Friday, November 22, 2024.
+* **Author Awards [CLOSED]**: The deadline to apply is 23:59 on Friday, October 25, 2024 (AOE, UTC-12). Award applicants will be notified of the decision by Friday, November 1, 2024. We ask that applicants please wait to register for the workshop until notifications have been sent out.
+* **Non-Author Awards [CLOSED]**: The deadline to apply is 23:59 on Friday, November 15, 2024 (AOE, UTC-12). Award applicants will be notified of the decision by Friday, November 22, 2024.
 
 <!-- Please access the application using the link below: -->
 
