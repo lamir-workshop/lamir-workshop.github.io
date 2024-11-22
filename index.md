@@ -17,8 +17,8 @@ Federal do Rio de Janeiro (UFRJ) in Rio de Janeiro, Brazil.
 
 Please see the [Call for Papers](call4papers) page for more information.
 
-**We are offering financial support in the form of travel awards to local
-Latin American student authors of accepted papers.** For more information on how to
+We are offering financial support in the form of travel awards to local
+Latin American student authors of accepted papers. For more information on how to
 apply, please visit the [Travel Awards](travel_awards) page.
 
 
