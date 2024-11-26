@@ -23,13 +23,15 @@ All attendees, speakers, mentors, panelists, sponsors, contractors, organizers, 
 ## Unacceptable behavior
 
 LAMIR is dedicated to providing all participants an experience free from harassment, bullying, discrimination, and retaliation. This includes offensive comments related to gender, gender identity, and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), politics, technology choices, or any other personal characteristics or considerations made unlawful by federal, state, or local laws, ordinances, or regulations. Inappropriate or unprofessional behavior interfering with another participant’s full participation will not be tolerated. This includes bullying, intimidation, personal attacks, harassment, sustained disruption of talks or other events, sexual harassment, stalking, following, harassing photography or recording, inappropriate physical contact, unwelcome sexual attention, public vulgar exchanges, derogatory name-calling, or diminutive characterizations, all of which are unwelcome in this community. Advocating for, or encouraging, any of the above behavior, is also considered harassment. No use of images, activities, or other materials that are of a sexual, racial, or otherwise offensive nature that may create an inappropriate or toxic environment is permitted. Disorderly, boisterous, or disruptive conduct, including but not limited to fighting, coercion, theft, damage to property, or any mistreatment or non-businesslike behavior towards other participants, is not tolerated. Scientific misconduct—including but not limited to fabrication, falsification, or plagiarism of paper submissions or research presentations—is prohibited.
-Reporting
+
+## Reporting
 
 If you have concerns related to your participation or interaction at a Khipu activity, observe someone else’s difficulties, or have any other concerns you wish to share, you can make a report:
 
 * Anytime by email at <a href="mailto:lamir.workshop@gmail.com">lamir.workshop@gmail.com</a>.
 * During an event in-person to organizers, volunteers, or any member of the LAMIR Team. They will then direct you to the designated responder(s) for that event. There is no deadline by which to make a report.
-* Enforcement
+
+## Enforcement
 
 Any participant asked by any member of the community to stop any unacceptable behavior is expected to comply immediately. A response of “just joking” will not be accepted; behavior can be harassing without an intent to offend.
 
