@@ -103,25 +103,30 @@ conference:
             relative_url: /call4papers/
           - name: Poster Presentations
             relative_url: /poster_session/
-      - name: Registration
-        relative_url: /registration/
-      - name: Travel Awards
-        relative_url: /travel_awards/
       - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      # - live: true
-      # - name: Speakers
-      #   relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Sponsors
-        relative_url: /sponsors/
-      - name: Committee
-        relative_url: /committee/
-      # - name: Code of Conduct
-      #   relative_url: /coc/
+        menu:
+          - name: Program
+            relative_url: /program/
+          - name: Talks
+            relative_url: /talks/
+          - name: Speakers
+            relative_url: /speakers/
+      - name: Attend
+        menu:
+        - name: Registration
+          relative_url: /registration/
+        - name: Location
+          relative_url: /location/
+        - name: Travel Awards
+          relative_url: /travel_awards/
+      - name: About
+        menu:
+        - name: Organizing Committee
+          relative_url: /committee/
+        - name: Code of Conduct
+          relative_url: /coc/
+        - name: Sponsors
+          relative_url: /sponsors/
 
   info_bars:
     - title: Register Now!
