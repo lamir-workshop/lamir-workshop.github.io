@@ -76,10 +76,10 @@ title: "Program"
       <a class="text-reset" href="../talks/hackathon/">Hackathon &amp; coffee</a>
     </td>
     <td scope="row" class="text-center paper" rowspan="3">
-      <a class="text-reset" href="../talks/paper/">Poster session &amp; coffee</a>
+      <a class="text-reset" href="../talks/paper/">Poster session 1 &amp; coffee</a>
     </td>
     <td scope="row" class="text-center paper" rowspan="3">
-      <a class="text-reset" href="../talks/paper/">Poster session &amp; coffee</a>
+      <a class="text-reset" href="../talks/paper/">Poster session 2 &amp; coffee</a>
     </td>
   </tr>
   <tr>

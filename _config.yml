@@ -101,14 +101,16 @@ conference:
         menu:
           - name: Call for Papers
             relative_url: /call4papers/
-          - name: Poster Presentations
-            relative_url: /poster_session/
+          - name: Poster Guidelines
+            relative_url: /poster_guidelines/
       - name: Program
         menu:
           - name: Overview
             relative_url: /program/
           - name: Talks
             relative_url: /talks/
+          - name: Poster Sessions
+            relative_url: /poster_session/
           - name: Speakers
             relative_url: /speakers/
       - name: Attend
