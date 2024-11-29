@@ -9,7 +9,7 @@ title: "Poster Sessions"
 ## Session 1: Music Analysis and MIR Tasks
 <table class="registration-table mb-0 mx-auto"><thead>
   <tr>
-    <th>Title</th>
+    <th>Paper Title</th>
     <th>Authors</th>
   </tr></thead>
 <tbody>
@@ -50,7 +50,7 @@ title: "Poster Sessions"
 
 <table class="registration-table mb-0 mx-auto"><thead>
   <tr>
-    <th>Title</th>
+    <th>Paper Title</th>
     <th>Authors</th>
   </tr></thead>
 <tbody>
@@ -80,7 +80,7 @@ title: "Poster Sessions"
   </tr>
   <tr>
     <td>Long-Form Text-To-Music Generation With Adaptive Prompts: A Case Of Study In Tabletop Role-Playing Games Soundtracks</td>
-    <td>Felipe F Marra, Lucas N. Ferreira</td>
+    <td>Felipe F Marra, Lucas N Ferreira</td>
   </tr>
 </tbody></table>
 
