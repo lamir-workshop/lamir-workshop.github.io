@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Posters Presentation Guidelines"
+title: "Poster Guidelines"
 ---
 
-# Poster Presentations
+# Poster Guidelines
 
 <br>
 Authors of each accepted paper must bring a **printed** poster to the workshop,
 which will be used for discussions during the poster sessions.
+
+Please see the schedule of poster presentations [**here**](../poster_session).
 
 Poster sessions are interactive events where authors present their research
 visually on posters. See some examples of posters from ISMIR 2024 [here](https://ismir2024program.ismir.net/papers.html?filter=keywords&search=).
