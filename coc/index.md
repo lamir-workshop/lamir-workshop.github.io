@@ -5,6 +5,7 @@ title: "Code of Conduct"
 
 # Code of Conduct
 
+<br>
 The open exchange of ideas, freedom of thought and expression, and respectful scientific debate are central to LAMIR's goals. This requires a community and environment that recognizes and respects every person's inherent worth. This Code of Conduct (CoC) aims to outline expected standards of behavior for all events and communication channels associated with LAMIR.
 
 ### Scope
