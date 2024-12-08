@@ -131,13 +131,12 @@ conference:
           relative_url: /sponsors/
 
   info_bars:
-    - title: Register Now!
-      color: success
+    - title: Join us on Slack!
+      color: info
       main_only: true
-      text: |
-        Registration for the workshop is now open.
-        Please visit the <b><a href="/registration">Registration</a></b> page for more
-        information on how to register.
+      text: Slack will be our main platform for staying connected during the workshop.
+            Join using the link <b><a href="https://join.slack.com/t/lamirworkshop/shared_invite/zt-2w6w045nk-Nh4Gce13SW4tA7TaV27KfA">here</a></b>! |
+        
 
   sponsors:
     sponsors:
