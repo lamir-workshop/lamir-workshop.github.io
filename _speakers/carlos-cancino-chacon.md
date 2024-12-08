@@ -22,3 +22,5 @@ JKU, an MSc in Electrical and Audio Engineering from Graz University of
 Technology, a Bachelor’s in Physics from UNAM, and a Bachelor’s in Piano
 Performance from the National Conservatory of Music of Mexico. He currently
 serves as a Member-at-Large on the ISMIR Board and as Section Editor for TISMIR.
+
+<br>
