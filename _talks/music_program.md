@@ -14,8 +14,6 @@ Zitarrosa, the latter renowned for his deep association with guitar quartet
 accompaniment. This milonga repertoire is the culmination of three projects
 funded by the Uruguayan Ministry of Education and Culture, the most recent one
 developed in collaboration with the [Alfredo Zitarrosa Archive](http://www.zitarrosa.org/).
-During the music program, Cuarteto Colibriyo will be performing works by Ernesto Nazereth
-and Heitor Villa-Lobos
 
 <br>
 
@@ -34,7 +32,7 @@ multimedia project "Cartilha Rítmica for Piano by Almeida Prado"
 about the rhythmic strategies explored by the composer (written along with
 musicologist Salomea Gandelman); and an audio CD in which she plays the
 Cartilha's exercises. Since 2022, she has been a member of musical group Tira
-o Dedo do Pudim.
+o Dedo do Pudim. During the music program, Sara will be performing works by Ernesto Nazereth and Heitor Villa-Lobos.
 
 <br>
 
