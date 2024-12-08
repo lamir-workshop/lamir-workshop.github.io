@@ -4,5 +4,5 @@ categories:
   - Social
 ---
 
-Coffee and snacks will be served in the morning and during poster sessions and
-the hackathon
+Coffee and light snacks will be served in the morning, during the poster sessions, and
+at the hackathon.

@@ -1,5 +1,5 @@
 ---
-name: Music program
+name: Music Program
 categories:
 - Social
 ---
