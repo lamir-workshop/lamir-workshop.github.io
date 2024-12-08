@@ -5,7 +5,7 @@ categories:
   - Keynote
 ---
 
-I will present a pilot project focused on the digitization and encoding of one
+In this talk, I will present a pilot project focused on the digitization and encoding of one
 of six colonial polyphonic choirbooks from the Archivo Histórico Arquidiocesano
 de Guatemala (AHAG), an archive located next to the Metropolitan Cathedral in
 Guatemala City. These choirbooks, copied in the 17th and 18th centuries,
