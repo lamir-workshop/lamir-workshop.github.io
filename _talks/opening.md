@@ -1,7 +1,7 @@
 ---
 name: Opening
-categories:
+categories: Other
 ---
 
-The LAMIR organization committee will welcome you to the event and give you an
-overview of the workshop activities.
+The LAMIR Organizing Committee will welcome you to the event and give you an
+overview of the workshop's activities.

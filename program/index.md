@@ -6,14 +6,12 @@ title: "Program"
 # Program
 <br>
 
-**This is a tentative schedule and might be changed.**
-
 <table class="program-table mb-0 mx-auto"><thead>
   <tr>
     <th scope="col" class="col-title text-left"></th>
-    <th scope="col" class="col-title text-center">Monday<br>Dec 9th</th>
-    <th scope="col" class="col-title text-center">Tuesday<br>Dec 10th</th>
-    <th scope="col" class="col-title text-center">Wednesday<br>Dec 11th</th>
+    <th scope="col" class="col-title text-center">Monday<br>December 9th</th>
+    <th scope="col" class="col-title text-center">Tuesday<br>December 10th</th>
+    <th scope="col" class="col-title text-center">Wednesday<br>December 11th</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -37,7 +35,7 @@ title: "Program"
       <a class="text-reset" href="../talks/opening/">Opening</a>
     </td>
     <td scope="row" class="text-center industry" rowspan="2">
-      <a class="text-reset" href="../talks/industry/">Industry talk</a>
+      <a class="text-reset" href="../talks/industry/">Industry Talk</a>
     </td>
     <td scope="row" class="text-center keynote" rowspan="2">
       <a class="text-reset" href="../talks/keynote2/">Keynote 2</a>
@@ -73,13 +71,13 @@ title: "Program"
   <tr>
     <td scope="row" class="text-center">13h-13h30</td>
     <td scope="row" class="text-center tutorial" rowspan="3">
-      <a class="text-reset" href="../talks/hackathon/">Hackathon &amp; coffee</a>
+      <a class="text-reset" href="../talks/hackathon/">Hackathon &amp; Coffee</a>
     </td>
     <td scope="row" class="text-center paper" rowspan="3">
-      <a class="text-reset" href="../talks/paper/">Poster session 1 &amp; coffee</a>
+      <a class="text-reset" href="../talks/paper/">Poster Session 1 &amp; Coffee</a>
     </td>
     <td scope="row" class="text-center paper" rowspan="3">
-      <a class="text-reset" href="../talks/paper/">Poster session 2 &amp; coffee</a>
+      <a class="text-reset" href="../talks/paper/">Poster Session 2 &amp; Coffee</a>
     </td>
   </tr>
   <tr>
@@ -94,7 +92,7 @@ title: "Program"
       <a class="text-reset" href="../talks/demos/">Demos</a>
     </td>
     <td scope="row" class="text-center music" rowspan="3">
-      <a class="text-reset" href="../talks/music_program/">Music program</a>
+      <a class="text-reset" href="../talks/music_program/">Music Program</a>
     </td>
     <td scope="row" class="text-center opening">
       <a class="text-reset" href="../talks/closing/">Closing</a>

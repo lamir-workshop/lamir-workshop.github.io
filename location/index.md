@@ -7,15 +7,38 @@ title: "Location"
 
 <br>
 
+### Communication
+
+We have created a Slack for the workshop. This will be our main platform for staying connected and fostering a collaborative atmosphere during the workshop. Please remember to review our <a href="../coc">Code of Conduct</a> to help us maintain an inclusive and respectful environment.
+
+<div class="row justify-content-center">
+  <a class="join-btn" href="https://join.slack.com/t/lamirworkshop/shared_invite/zt-2w6w045nk-Nh4Gce13SW4tA7TaV27KfA">Join us on Slack!</a>
+</div>
+
+<br>
+* **#announcements**: For all important updates and workshop information. Keep an eye on this channel so you don’t miss anything!
+
+* 	**#random**: A space for casual conversations, sharing fun or off-topic content, and connecting with others informally.
+
+* **#social**: Use this channel to plan meetups, discuss networking opportunities, or share any social activities related to the workshop.
+
+* **#questions**: Feel free to post any questions you may have related to the workshop or moving around Rio de Janeiro, we will do our best to help you!
+
+<br>
+
 ### Workshop Events
 
-All the events (except lunch) will be held at:
+All of the workshop events (except lunch) will be held at:
 	<br>
 	<br>**[Auditório da COPPE (CT2)](../rooms/auditorio_ct2)**
 	<br>Rua Moniz Aragão, 360, Bloco 1, Térreo - Cidade Universitária
 	<br>Rio de Janeiro, RJ
 	<br>21941-594
 	<br>Brasil
+
+#### Lunch
+
+Lunch is scheduled between 12 PM and 1 PM. We recommend that you grab yourself a dish at [**Projectus**](../rooms/projectus), a self-service restaurant located in the F Block of the Technology Center of UFRJ. If you need directions from the conference site to the restaurant, check out the [map](../rooms/projectus) or ask one of our friendly organizers—we’re happy to guide you! All workshop participants will receive a courtesy voucher for 300g. Bom apetite!
 
 <br>
 

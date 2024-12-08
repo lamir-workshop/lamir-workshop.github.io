@@ -4,4 +4,4 @@ categories:
   - Other
 ---
 
-There will be stations to collect your name and provide your badge.
+There will be a station to check-in and receive your badge.
