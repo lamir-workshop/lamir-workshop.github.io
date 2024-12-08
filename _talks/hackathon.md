@@ -1,5 +1,5 @@
 ---
-name: Hackathon & coffee
+name: Hackathon & Coffee
 categories:
   - Code
 ---

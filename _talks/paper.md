@@ -1,5 +1,5 @@
 ---
-name: Poster session & coffee
+name: Poster Session & Coffee
 categories:
 ---
 
