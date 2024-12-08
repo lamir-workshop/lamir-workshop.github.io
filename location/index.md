@@ -28,13 +28,17 @@ We have created a Slack for the workshop. This will be our main platform for sta
 
 ### Workshop Events
 
-All the events (except lunch) will be held at:
+All of the workshop events (except lunch) will be held at:
 	<br>
 	<br>**[Auditório da COPPE (CT2)](../rooms/auditorio_ct2)**
 	<br>Rua Moniz Aragão, 360, Bloco 1, Térreo - Cidade Universitária
 	<br>Rio de Janeiro, RJ
 	<br>21941-594
 	<br>Brasil
+
+#### Lunch
+
+Lunch is scheduled between 12 PM and 1 PM. We recommend that you grab yourself a dish at [**Projectus**](../rooms/projectus), a self-service restaurant located in the F Block of the Technology Center of UFRJ. If you need directions from the conference site to the restaurant, check out the [map](../rooms/projectus) or ask one of our friendly organizers—we’re happy to guide you! All workshop participants will receive a courtesy voucher for 300g. Bom apetite!
 
 <br>
 
