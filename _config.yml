@@ -131,12 +131,16 @@ conference:
           relative_url: /sponsors/
 
   info_bars:
-    - title: Join us on Slack!
+    - title: Proceedings are now available!
       color: info
       main_only: true
-      text: Slack will be our main platform for staying connected during the workshop.
-            Join using the link <b><a href="https://join.slack.com/t/lamirworkshop/shared_invite/zt-2w6w045nk-Nh4Gce13SW4tA7TaV27KfA">here</a></b>! |
-        
+      text: The workshop proceedings are now available at <a href="https://zenodo.org/records/14908040">Zenodo</a>!
+    # - title: Join us on Slack!
+    #   color: secondary
+    #   main_only: true
+    #   text: Slack will be our main platform for staying connected during the workshop.
+    #         Join using the link <b><a href="https://join.slack.com/t/lamirworkshop/shared_invite/zt-2w6w045nk-Nh4Gce13SW4tA7TaV27KfA">here</a></b>! |
+
 
   sponsors:
     sponsors:

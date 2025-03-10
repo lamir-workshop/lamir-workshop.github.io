@@ -44,6 +44,4 @@ Please feel free to contact us with any questions or concerns related to the wor
 
 ---
 
-<div class="row justify-content-center">
-  <a class="application-btn" href="https://forms.gle/RRSutGknLvXxrCBL8">Register Here!</a>
-</div>
+Proceedings are available on [Zenodo](https://zenodo.org/records/14908040)!
