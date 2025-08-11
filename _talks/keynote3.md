@@ -25,3 +25,8 @@ sources in mensural notation from both Europe and Latin America. By relying on
 open, free, and online technologies, this pipeline remains accessible to
 projects with limited resources,   furthering the project’s mission of
 “enhancing access” to early music sources.
+
+<br>
+<div class="row justify-content-center">
+  <a class="application-btn" href="https://www.youtube.com/watch?v=lHcGcnz3b5A">YouTube Recording</a>
+</div>

@@ -27,3 +27,8 @@ musical scores; (2) Studying human interaction in musical performance and
 insights into the development of a real-time automatic accompaniment system; and
 (3) The Rach3 Project, an investigation into how pianists learn new music and
 develop their own expressive interpretations.
+
+<br>
+<div class="row justify-content-center">
+  <a class="application-btn" href="https://www.youtube.com/watch?v=8M819AFaG8U">YouTube Recording</a>
+</div>
