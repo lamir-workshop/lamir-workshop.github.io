@@ -26,5 +26,5 @@ global music.
 
 <br>
 <div class="row justify-content-center">
-  <a class="application-btn" href="https://www.youtube.com/watch?v=UVEo-y9Z2Do">YouTube Recording</a>
+  <a class="application-btn" target="_blank" href="https://www.youtube.com/watch?v=UVEo-y9Z2Do">YouTube Recording</a>
 </div>

@@ -30,5 +30,5 @@ develop their own expressive interpretations.
 
 <br>
 <div class="row justify-content-center">
-  <a class="application-btn" href="https://www.youtube.com/watch?v=8M819AFaG8U">YouTube Recording</a>
+  <a class="application-btn" target="_blank" href="https://www.youtube.com/watch?v=8M819AFaG8U">YouTube Recording</a>
 </div>
