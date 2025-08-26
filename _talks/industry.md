@@ -5,7 +5,6 @@ categories:
 - Industry
 ---
 
-# Abstract
 This keynote delves into the path from Music Information Retrieval (MIR)
 research to practical applications, highlighting source separation as a pivotal
 technology. With a background in machine learning and sound engineering, I will
@@ -26,3 +25,7 @@ Attendees will gain practical insights into the evolving landscape of MIR
 technology, as well as strategies for overcoming the complexities of real-time
 deployment, positioning source separation as a powerful, accessible tool in
 modern music technology.
+
+<div class="row justify-content-center">
+  <a class="application-btn" href="https://www.youtube.com/watch?v=wAf3y2yUVV8">YouTube Recording</a>
+</div>

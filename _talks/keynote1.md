@@ -5,6 +5,7 @@ categories:
 - Keynote
 ---
 
+
 In recent years, Music Information Research (MIR) has made remarkable advances
 in developing computational tools for analyzing, generating, and understanding
 music. However, there is still a long way to go for MIR tools developed for
@@ -22,3 +23,8 @@ field, proposing new directions that include low-data learning approaches,
 dataset curation, and light-weight models, with the aim to inspire future
 research for a multicultural MIR landscape that truly reflects the diversity of
 global music.
+
+<br>
+<div class="row justify-content-center">
+  <a class="application-btn" target="_blank" href="https://www.youtube.com/watch?v=UVEo-y9Z2Do">YouTube Recording</a>
+</div>
