@@ -131,6 +131,8 @@ conference:
           relative_url: /coc/
         - name: Sponsors
           relative_url: /sponsors/
+      - name: Proceedings
+        relative_url: /proceedings/
 
   info_bars:
     # - title: Proceedings now available!
