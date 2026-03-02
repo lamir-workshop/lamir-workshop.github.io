@@ -136,7 +136,7 @@ conference:
       - name: Past Editions
         menu:
         - name: 2024
-          relative_url: https://2024-lamir-workshop.github.io
+          url: https://2024-lamir-workshop.github.io
 
   info_bars:
     # - title: Proceedings now available!
