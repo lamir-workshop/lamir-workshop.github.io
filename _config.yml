@@ -133,6 +133,10 @@ conference:
           relative_url: /sponsors/
       - name: Proceedings
         relative_url: /proceedings/
+      - name: Past Editions
+        menu:
+        - name: 2024
+          relative_url: https://2024-lamir-workshop.github.io
 
   info_bars:
     # - title: Proceedings now available!
