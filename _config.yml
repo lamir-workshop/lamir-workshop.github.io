@@ -110,6 +110,8 @@ conference:
           relative_url: /committee/
         - name: Code of Conduct
           relative_url: /coc/
+        - name: Sponsors
+          relative_url: /sponsors/
       - name: Proceedings
         relative_url: /proceedings/
       - name: Past Editions
