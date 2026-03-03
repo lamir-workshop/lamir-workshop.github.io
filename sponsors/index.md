@@ -1,4 +1,0 @@
----
-layout: sponsors
-title: "Sponsors"
----

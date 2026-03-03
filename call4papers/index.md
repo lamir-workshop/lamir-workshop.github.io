@@ -5,29 +5,29 @@ title: "Call for Papers"
 
 # Call for Papers
 
-<br>
+<!-- <br>
 * [Português (PT)](../call4papers_pt)
 * [Español (ES)](../call4papers_es)
-<br>
+<br> -->
 
 ### Deadlines
 
 All deadlines are 11:59 PM, _Anywhere on Earth_ (AOE, UTC-12), and all submissions must be made through Microsoft CMT.
 
-**Abstract Deadline** - Friday, September 6, 2024
+**Abstract Deadline** - Friday, August 21, 2026
 
-**Paper Deadline (Extended!)** - Friday, September 20, 2024
+**Paper Deadline** - Friday, August 28, 2026
 
 The abstract and title may be modified until the paper deadline.
 
-<div class="row justify-content-center">
+<!-- <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
 </div>
-<br>
+<br> -->
 
 ### Overview and Topics
 The Organizing Committee of the Latin American Music Information Retrieval
-(LAMIR) Workshop 2024 welcomes you to submit an application to present at the
+(LAMIR) Workshop 2026 welcomes you to submit an application to present at the
 event in the form of a full paper. We encourage submissions of research from all
 areas related to music information retrieval (MIR), including, but not limited
 to, machine learning, signal processing, and computational musicology (see more
@@ -94,12 +94,12 @@ License (CC BY 4.0).
 American or British spellings as long as they are used consistently throughout
 the entire submission.
 
-**Paper Format**
-<br>Papers must be formatted using the LAMIR 2024 templates
+<!-- **Paper Format**
+<br>Papers must be formatted using the LAMIR 2026 templates
 ([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex) / [Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) or
 [Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)) which are based on the ISMIR 2024 templates. Authors are required to submit their papers in PDF format (maximum file size of 10MB). Submissions
 that manipulate the template (e.g., by decreasing margins or font sizes) may be
-rejected without review. All fonts must be embedded within the PDF.
+rejected without review. All fonts must be embedded within the PDF. -->
 
 **Paper Length**
 <br>Papers must follow a 4+N format. That is, they can contain up to 4 pages of
@@ -119,7 +119,7 @@ double-blind review process, please avoid posting the manuscript on public
 websites (e.g., arXiv) or promoting the work in any way (e.g., social media,
 mailing lists) during the review period.
 
-### Important Dates for Authors
+<!-- ### Important Dates for Authors
 
 * Friday, July 12, 2024 - Submission Site Opens
 * Friday, September 6, 2024 - Abstract Submission Due
@@ -131,6 +131,6 @@ mailing lists) during the review period.
 
 <div class="row justify-content-center">
   <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
-</div>
+</div> -->
 
-<br>
+<!-- <br> -->

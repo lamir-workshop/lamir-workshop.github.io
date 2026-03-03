@@ -54,5 +54,22 @@
   </div>
 </div>
 
+<div class="jumbotron">
+  <h1 class="display-5 mb-3 d-print-none text-center">Local and Music Committee</h1>
+  <div class="row">
+    {%- for s in site.data.organization.local_and_music_committee -%}
+    <div class="col-lg-4 col-md-6 col-sm-12 text-center my-3">
+      <img src="{{ s.logo | prepend: '/assets/headshots/' | prepend: site.baseurl }}" style="height:200px;width:200px;border-radius:50%;"/>
+      <p>
+        <h4>{{s.name}}</h4>
+      <p>
+        {{s.org}}
+      </p>
+    </div>
+    {%- endfor -%}
+  </div>
+</div>
+
+
 
 {% include partials/footer.html %}
