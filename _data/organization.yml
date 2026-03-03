@@ -2,16 +2,19 @@ organizing_committee:
   - name: Magdalena Fuentes
     org: New York University (NYU)
     logo: magda.jpg
+  - name: Flavio Figueiredo
+    org: Universidade Federal de Minas Gerais (UFMG)
+    logo: flavio.png
+  - name: Lucas N. Ferreira
+    org: Universidade Federal de Minas Gerais (UFMG)
+    logo: lucasn.jpg
+scientific_program_committee:
   - name: Luiz Wagner Pereira Biscainho
     org: Universidade Federal do Rio de Janeiro (UFRJ)
     logo: luis.jpg
   - name: Martín Rocamora
     org: Universitat Pompeu Fabra (UPF) and Universidad de la República (UDELAR)
     logo: martin.jpg
-scientific_program_committee:
-  - name: Lucas Simões Maia
-    org: Universidade Federal do Rio de Janeiro (UFRJ)
-    logo: lucas.jpg
   - name: Carlos Eduardo Cancino-Chacón
     org: Johannes Kepler University Linz (JKU)
     logo: carlos.jpg
@@ -19,9 +22,13 @@ logistics_committee:
   - name: Giovana Morais
     org: New York University (NYU)
     logo: giovana.jpg
-  - name: Richa Namballa
-    org: New York University (NYU)
-    logo: richa.jpg
-  - name: Xavier Juanola Molet
-    org: Universitat Pompeu Fabra (UPF)
-    logo: xavier.jpg
+  - name: Thiago Martin Poppe
+    org: Universidade Federal de Minas Gerais (UFMG)
+    logo: thiago.jpeg
+local_and_music_committee:
+  - name: Frederico Pedrosa
+    org: Universidade Federal de Minas Gerais (UFMG)
+    logo: fred.jpg
+  - name: José Henrique Padovani
+    org: Universidade Federal de Minas Gerais (UFMG)
+    logo: padovani.jpeg
