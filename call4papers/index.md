@@ -95,12 +95,12 @@ License (CC BY 4.0).
 American or British spellings as long as they are used consistently throughout
 the entire submission.
 
-<!-- **Paper Format**
+**Paper Format**
 <br>Papers must be formatted using the LAMIR 2026 templates
-([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2024/latex) / [Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-lamir-2024/fbvfwxymhhpb) or
-[Word](https://github.com/lamir-workshop/paper_templates/tree/master/2024/word)) which are based on the ISMIR 2024 templates. Authors are required to submit their papers in PDF format (maximum file size of 10MB). Submissions
+([LaTeX](https://github.com/lamir-workshop/paper_templates/blob/master/2026/latex) / [Overleaf](https://www.overleaf.com/read/mysbqjpprfkv#622b24) or
+[Word](https://github.com/lamir-workshop/paper_templates/tree/master/2026/word)). Authors are required to submit their papers in PDF format (maximum file size of 10MB). Submissions
 that manipulate the template (e.g., by decreasing margins or font sizes) may be
-rejected without review. All fonts must be embedded within the PDF. -->
+rejected without review. All fonts must be embedded within the PDF.
 
 **Paper Length**
 <br>Papers must follow a 4+N format. That is, they can contain up to 4 pages of
