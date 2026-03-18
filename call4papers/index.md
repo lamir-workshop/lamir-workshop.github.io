@@ -21,10 +21,16 @@ All deadlines are 11:59 PM, _Anywhere on Earth_ (AOE, UTC-12), and all submissio
 The abstract and title may be modified until the paper deadline, *but
 the author list must remain the same.*
 
-<!-- <div class="row justify-content-center">
-  <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2024">CMT Submission Portal</a>
+### Submit
+
+<div class="row justify-content-center">
+  <a class="submission-btn" href="https://cmt3.research.microsoft.com/LAMIR2026">CMT Submission Portal</a>
 </div>
-<br> -->
+<br>
+
+The Microsoft CMT service is being used for managing the peer-reviewing process for this conference. 
+This service is provided for free by Microsoft and they bore all expenses, 
+including costs for Azure cloud services as well as for software development and support.
 
 ### Overview and Topics
 The Organizing Committee of the Latin American Music Information Retrieval
