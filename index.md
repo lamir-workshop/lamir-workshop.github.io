@@ -33,4 +33,4 @@ workshop at
 * August 21, 2026 - Paper Abstract Due
 * August 28, 2026 - Paper Submission Due
 * September 18, 2026 - Acceptance Notification for Papers and Travel Support
-* Monday, December 14 to Wednesday, December 17, 2024 - Workshop
+* Monday, December 14 to Wednesday, December 17, 2026 - Workshop
