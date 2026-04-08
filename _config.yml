@@ -131,6 +131,10 @@ conference:
         full_name: International Society for Music Information Retrieval
         logo: ismir.png
         url: https://ismir.net
+      - name: CNPq
+        full_name: Conselho Nacional de Desenvolvimento Científico e Tecnológico
+        logo: cnpq.png
+        url: https://www.gov.br/cnpq/pt-br
     institutional_support:
       - name: UFMG
         full_name: Universidade Federal de Minas Gerais
