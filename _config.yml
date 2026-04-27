@@ -90,10 +90,10 @@ conference:
 
   navigation:
     footer:
-      img: 'artista-guitarra.png'
+      img: 'artista-gaita.png'
     logo:
       name: LAMIR
-      img: 'fundos-no-bg.png'
+      img: 'fundos-02.png'
       url: '/'
     links:
       - name: Author Information
@@ -114,15 +114,17 @@ conference:
           relative_url: /sponsors/
       - name: Proceedings
         relative_url: /proceedings/
+      - name: Tutorials
+        relative_url: /tutorials/
       - name: Past Editions
         relative_url: /previous/
 
-  info_bars:
-    - title: Join us on Slack
-      color: secondary
-      main_only: true
-      text: Slack will be our main platform for staying connected both during and after the workshop.
-            Join using the link <b><a href="https://join.slack.com/t/lamirworkshop/shared_invite/zt-2w6w045nk-Nh4Gce13SW4tA7TaV27KfA">here</a></b>! |
+  # info_bars:
+  #   - title: Join us on Slack
+  #     color: primary
+  #     main_only: true
+  #     text: Slack will be our main platform for staying connected both during and after the workshop.
+  #           Join using the link <b><a href="https://join.slack.com/t/lamirworkshop/shared_invite/zt-2w6w045nk-Nh4Gce13SW4tA7TaV27KfA">here</a></b>! |
 
 
   sponsors:

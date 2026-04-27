@@ -4,3 +4,29 @@
 $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 
 @import 'conference';
+
+.navbar {
+    background-color:#34AF85 !important;
+    // menu item color
+    .nav-link {
+        color: #fff !important;
+    }
+    .navbar-brand {
+        color: #fff !important;
+    }
+}
+
+.footer {
+    background-color: #34AF85 !important;
+    
+    .text-center {
+        color: #fff !important;
+    }
+}
+
+.jumbotron {
+    // Same background color with transparency
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
