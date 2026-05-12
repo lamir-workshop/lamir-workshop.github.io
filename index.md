@@ -6,14 +6,14 @@ layout: home
 <br>
 
 Join us for the 2nd Latin American Music Information Retrieval (LAMIR)
-workshop, from December 14 to 17, 2026, in Belo Horizonte, *Brazil.*
+workshop, from December 15 to 17, 2026, in Belo Horizonte, *Brazil.*
 
 LAMIR provides opportunities for
 local students and researchers to cultivate the Latin American community within
 the [International Society for Music Information Retrieval](https://ismir.net/) 
 (ISMIR) and the Artificial Intelligence (AI) communities.
 
-The workshop will take place on December 14 – 17, 2026, at the Universidade
+The workshop will take place on December 15 – 17, 2026, at the Universidade
 Federal de Minas Gerais (UFMG) in Belo Horizonte, Brazil.
 
 Please see the [Call for Papers](call4papers) page for more information.
@@ -33,4 +33,5 @@ workshop at
 * August 21, 2026 - Paper Abstract Due
 * August 28, 2026 - Paper Submission Due
 * September 18, 2026 - Acceptance Notification for Papers and Travel Support
-* Monday, December 14 to Wednesday, December 17, 2026 - Workshop
+* Monday, December 14th - MIR School for Students
+* Tuesday, December 15 to Wednesday, December 17, 2026 - Workshop
