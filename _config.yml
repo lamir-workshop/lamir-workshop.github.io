@@ -1,7 +1,7 @@
 title: LAMIR 2026
 preposition: ''
 description: >-
-  Join us for the 2nd Latin American Music Information Retrieval (LAMIR) workshop, from December 14 to 17, 2026, in Belo Horizonte.
+  Join us for the 2nd Latin American Music Information Retrieval (LAMIR) workshop, from December 15 to 17, 2026, in Belo Horizonte.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lamir-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
@@ -118,14 +118,12 @@ conference:
         relative_url: /tutorials/
       - name: Past Editions
         relative_url: /previous/
-
-  # info_bars:
-  #   - title: Join us on Slack
-  #     color: primary
-  #     main_only: true
-  #     text: Slack will be our main platform for staying connected both during and after the workshop.
-  #           Join using the link <b><a href="https://join.slack.com/t/lamirworkshop/shared_invite/zt-2w6w045nk-Nh4Gce13SW4tA7TaV27KfA">here</a></b>! |
-
+  
+  info_bars:
+    - title: MIR School for Local Students!
+      color: info
+      main_only: true
+      text: Students, join us on December 14th for an additional day featuring an MIR school designed for local students. The main workshop will take place from December 15th to 17th.
 
   sponsors:
     sponsors:
