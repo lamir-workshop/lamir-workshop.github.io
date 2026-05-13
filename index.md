@@ -34,4 +34,4 @@ workshop at
 * August 28, 2026 - Paper Submission Due
 * September 18, 2026 - Acceptance Notification for Papers and Travel Support
 * Monday, December 14th - MIR School for Students
-* Tuesday, December 15 to Wednesday, December 17, 2026 - Workshop
+* Tuesday, December 15 to Thursday, December 17, 2026 - Workshop
