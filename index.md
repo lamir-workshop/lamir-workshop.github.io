@@ -32,6 +32,6 @@ workshop at
 * July 17, 2026 - Travel Support Grants Opens
 * August 21, 2026 - Paper Abstract Due
 * August 28, 2026 - Paper Submission Due
-* September 18, 2026 - Acceptance Notification for Papers and Travel Support
+* September 21, 2026 - Acceptance Notification for Papers and Travel Support
 * Monday, December 14th - MIR School for Students
 * Tuesday, December 15 to Thursday, December 17, 2026 - Workshop
