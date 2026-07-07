@@ -63,12 +63,8 @@ conference:
         color: info
       - name: Industry
         color: info
-      - name: Social
+      - name: Music Program
         color: success
-      - name: Other
-        color: dark
-      - name: Code
-        color: primary
 
   link_preview:
     disable: false
@@ -102,7 +98,7 @@ conference:
             relative_url: /call4papers/
       - name: Attend
         menu:
-        - name: Talks
+        - name: Keynotes and Invited Talks
           relative_url: /talks/
         - name: About Belo Horizonte
           relative_url: /aboutbh/
@@ -126,8 +122,6 @@ conference:
       color: info
       main_only: true
       text: LAMIR connects and grows the Music Information Retrieval (MIR) and AI community in Latin America. Thanks to our sponsors, travel awards are available to support Latin American student attendees. Check back soon.
-
-  info_bars:
     - title: MIR School for Local Students!
       color: info
       main_only: true

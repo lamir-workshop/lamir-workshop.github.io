@@ -1,5 +1,0 @@
----
-name: Lunch
-categories:
-- Social
----

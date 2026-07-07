@@ -1,5 +1,0 @@
----
-name: Demos
-categories:
-  - Code
----

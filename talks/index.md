@@ -1,6 +1,6 @@
 ---
 layout: talk-overview
-title: "Talks"
+title: "Keynotes and Invited Talks"
 ---
 
-# Talks
+# Keynotes and Invited Talks

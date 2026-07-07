@@ -1,5 +1,5 @@
 ---
-name: Title and abstract to be announced (TBA1)
+name: Luiz Naveda (Universidade Estadual de Minas Gerais)
 speakers: Luiz Naveda
 categories:
 - Keynote
