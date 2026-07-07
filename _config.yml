@@ -63,12 +63,8 @@ conference:
         color: info
       - name: Industry
         color: info
-      - name: Social
+      - name: Music Program
         color: success
-      - name: Other
-        color: dark
-      - name: Code
-        color: primary
 
   link_preview:
     disable: false
@@ -102,6 +98,8 @@ conference:
             relative_url: /call4papers/
       - name: Attend
         menu:
+        - name: Keynotes and Invited Talks
+          relative_url: /talks/
         - name: About Belo Horizonte
           relative_url: /aboutbh/
       - name: About
@@ -118,8 +116,12 @@ conference:
         relative_url: /tutorials/
       - name: Past Editions
         relative_url: /previous/
-  
+
   info_bars:
+    - title: Travel Grants
+      color: info
+      main_only: true
+      text: LAMIR connects and grows the Music Information Retrieval (MIR) and AI community in Latin America. Thanks to our sponsors, travel awards are available to support Latin American student attendees. Check back soon.
     - title: MIR School for Local Students!
       color: info
       main_only: true

@@ -1,9 +1,11 @@
 ---
 name: Music Program
 categories:
-- Social
+- Music Program
 ---
+TBA
 
+<!--  
 ## Cuarteto Colibriyo
 [**Cuarteto Colibriyo**](https://colibriyo.uy/en/) is guitar quartet which cultivates the
 rich tradition of guitar quartets from the Río de la Plata region, particularly
@@ -40,3 +42,4 @@ o Dedo do Pudim. During the music program, Sara will be performing works by Erne
 [**Carlos Cancino-Chacón**](https://carloscancinochacon.com/) is an Assistant Professor at the Institute of Computational Perception at Johannes Kepler University Linz (JKU), Austria. He is also the Principal Investigator of the Rach3 Project, funded by the Austrian Science Fund. He holds a PhD in Computer Science from the Johannes Kepler University Linz and he earned a Bachelor's Degree in Classical Piano Performance under the renowned Mexican pianist Héctor Rojas at the National Conservatory of Music in Mexico City.
 
 Carlos has performed as a soloist or accompanist in various venues across Mexico, Austria, Germany, and the UK. His current research, through the Rach3 Project, focuses on developing computational, data-driven methods to study long-term piano rehearsal, leveraging advances in AI and machine learning—a pursuit that conveniently doubles as an excuse to practice the piano more often.
+-->
