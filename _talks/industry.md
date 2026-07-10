@@ -1,5 +1,5 @@
 ---
-name: Andres Ferraro (SiriusXM-Pandora)
+name: Andres Ferraro (Nowon)
 speakers: Andres Ferraro
 categories:
 - Industry
