@@ -162,6 +162,10 @@ conference:
         full_name: New York University
         logo: nyu.png
         url: https://www.nyu.edu
+      - name: UdelaR
+        full_name: Universidad de la República Uruguay
+        logo: udelar.png
+        url: https://udelar.edu.uy/portal/
       - name: UPF
         full_name: Universitat Pompeu Fabra
         logo: upf.png
