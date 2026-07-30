@@ -98,6 +98,8 @@ conference:
             relative_url: /call4papers/
       - name: Attend
         menu:
+        - name: Travel Awards
+          relative_url: /travel_awards/
         - name: Keynotes and Invited Talks
           relative_url: /talks/
         - name: About Belo Horizonte
