@@ -120,14 +120,18 @@ conference:
         relative_url: /previous/
 
   info_bars:
+    - title: One Week Abstract and Papers Deadline Extension!
+      color: secondary
+      main_only: true
+      text: We extended our Abstract and Paper Submission Deadlines! Abstracts are now due on August 28th, Papers are due on September 4th.
     - title: Travel Grants
       color: info
       main_only: true
-      text: LAMIR connects and grows the Music Information Retrieval (MIR) and AI community in Latin America. Thanks to our sponsors, travel awards are available to support Latin American student attendees. See [Travel Awards](/travel_awards/).
+      text: Thanks to our sponsors, travel awards are available to support Latin American student attendees. See [Travel Awards](/travel_awards/).
     - title: Escola de Verão para Estudantes Locais!
       color: info
       main_only: true
-      text: Estudantes locais, participem! No dia 14 de dezembro, teremos um dia extra com uma Escola de Recuperação de Informação Musical (MIR) voltada aos estudantes da região. [Form de inscrição](https://forms.gle/KA9kEsRcsDT1gBY76). 
+      text: No dia 14 de dezembro, teremos uma Escola de Recuperação de Informação Musical (MIR) voltada a estudantes. [Form de inscrição](https://forms.gle/KA9kEsRcsDT1gBY76).
 
   sponsors:
     sponsors:
