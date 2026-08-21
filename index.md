@@ -29,7 +29,7 @@ workshop at
 
 **Important Dates**
 * June 26, 2026 - Submission Site Opens
-* July 17, 2026 - Travel Support Grants Opens<br><br>
+* July 17, 2026 - Travel Support Grants Opens
 * <s>August 21, 2026 - Paper Abstract Due</s> -> August 28, 2026 - Paper Abstract Due
 * <s>August 28, 2026 - Paper Submission Due</s> -> September 04, 2026 - Paper Submission Due
 * <s>September 21, 2026 - Acceptance Notification for Papers and Travel Support</s> -> September 28th, 2026 - Acceptance Notification for Papers and Travel Support
