@@ -31,7 +31,7 @@ workshop at
 * June 26, 2026 - Submission Site Opens
 * July 17, 2026 - Travel Support Grants Opens<br><br>
 * <s>August 21, 2026 - Paper Abstract Due</s> -> August 28, 2026 - Paper Abstract Due
-* <s>August 28, 2026 - Paper Submission Due</s> -> September 04, 2026 - Paper Abstract Due
+* <s>August 28, 2026 - Paper Submission Due</s> -> September 04, 2026 - Paper Submission Due
 * <s>September 21, 2026 - Acceptance Notification for Papers and Travel Support</s> -> September 28th, 2026 - Acceptance Notification for Papers and Travel Support
 * Monday, December 14th - MIR School for Students
 * Tuesday, December 15 to Thursday, December 17, 2026 - Workshop
