@@ -24,7 +24,7 @@ Access the application using the link below:
 ### Important Dates
 
 - The deadline to apply is 23:59 on Monday, September 1st, 2026 (AOE, UTC-12).
-- Award applicants will be notified of the decision by Monday, September 21st, 2026. 
+- Award applicants will be notified of the decision by Monday, September 28th, 2026. 
 
 We ask that applicants please wait to register for the workshop until notifications have been sent out.
 
