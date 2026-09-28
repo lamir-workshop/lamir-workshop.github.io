@@ -73,7 +73,7 @@ conference:
     show_firstname: true
 
   location:
-    url: '/location'
+    url: '/local/cad3/'
     map:
       home_coord: -19.870293173937128, -43.964666684656066
       map_provider: "OpenStreetMap.Mapnik"
@@ -104,8 +104,8 @@ conference:
           relative_url: /travel_awards/
         - name: Keynotes and Invited Talks
           relative_url: /talks/
-        - name: About Belo Horizonte
-          relative_url: /aboutbh/
+        - name: About the Location
+          relative_url: /local/
       - name: About
         menu:
         - name: Organizing Committee
