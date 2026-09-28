@@ -1,0 +1,13 @@
+{% assign hotels = include.hotels | split: '|' %}
+{% assign first_query = hotels.first | append: ', Belo Horizonte, Brazil' | url_encode %}
+<div class="my-4 hotel-map">
+  <h3 class="h5">Explore {{ include.area }} hotels on Google Maps</h3>
+  <label for="hotel-map-{{ include.id }}">Choose a hotel to view its location:</label>
+  <select id="hotel-map-{{ include.id }}" class="form-control mb-3 hotel-map-select">
+    {% for hotel in hotels %}
+    <option value="{{ hotel | escape }}">{{ hotel | escape }}</option>
+    {% endfor %}
+  </select>
+  <iframe class="w-100 rounded" height="400" style="border: 0;" title="Google Maps: {{ hotels.first | escape }}" src="https://www.google.com/maps?q={{ first_query }}&amp;output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+  <p class="mt-2"><a class="hotel-map-link" href="https://www.google.com/maps/search/?api=1&amp;query={{ first_query }}">Open {{ hotels.first | escape }} in Google Maps</a></p>
+</div>
