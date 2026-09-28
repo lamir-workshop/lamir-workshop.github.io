@@ -123,7 +123,7 @@ conference:
 
   info_bars:
     - title: Registration is open!
-      color: info
+      color: secondary
       main_only: true
       text: Registration for LAMIR 2026 is now open. [Register on Even3](https://www.even3.com.br/lamir2026-781524/).
     - title: Escola de Verão para Estudantes Locais!
