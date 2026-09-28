@@ -98,6 +98,8 @@ conference:
             relative_url: /call4papers/
       - name: Attend
         menu:
+        - name: Registration
+          absolute_url: https://www.even3.com.br/lamir2026-781524/
         - name: Travel Awards
           relative_url: /travel_awards/
         - name: Keynotes and Invited Talks
@@ -120,6 +122,10 @@ conference:
         relative_url: /previous/
 
   info_bars:
+    - title: Registration is open!
+      color: info
+      main_only: true
+      text: Registration for LAMIR 2026 is now open. [Register on Even3](https://www.even3.com.br/lamir2026-781524/).
     - title: Escola de Verão para Estudantes Locais!
       color: info
       main_only: true
