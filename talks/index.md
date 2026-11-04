@@ -4,7 +4,7 @@ title: "Keynotes and Invited Talks"
 ---
 
 <div class="row mt-4">
-  <div class="col-12 col-md-6 mb-4">
+  <div class="col-12 col-md-4 mb-4">
     <article class="card h-100 border-0 bg-light">
       <div class="card-body p-4">
         <img src="{{ '/assets/headshots/naveda.jpg' | relative_url }}" alt="Luiz Naveda" class="rounded-circle d-block mb-4" style="width: 160px; height: 160px; max-width: 100%; object-fit: cover;">
@@ -14,7 +14,17 @@ title: "Keynotes and Invited Talks"
       </div>
     </article>
   </div>
-  <div class="col-12 col-md-6 mb-4">
+  <div class="col-12 col-md-4 mb-4">
+    <article class="card h-100 border-0 bg-light">
+      <div class="card-body p-4">
+        <img src="{{ '/assets/headshots/cano.jpg' | relative_url }}" alt="Estefanía Cano" class="rounded-circle d-block mb-4" style="width: 160px; height: 160px; max-width: 100%; object-fit: cover;">
+        <h2 class="h4 mb-2">Estefanía Cano</h2>
+        <p class="text-muted mb-3">Chief Scientist, AudioSourceRE</p>
+        <p class="mb-0">Estefanía Cano leads a team developing AI tools that separate individual sounds from a recording. Her research spans music information retrieval and audio fingerprinting at Fraunhofer IDMT in Germany and medical applications of music at A*STAR in Singapore.</p>
+      </div>
+    </article>
+  </div>
+  <div class="col-12 col-md-4 mb-4">
     <article class="card h-100 border-0 bg-light">
       <div class="card-body p-4">
         <img src="{{ '/assets/headshots/ferraro.png' | relative_url }}" alt="Andres Ferraro" class="rounded-circle d-block mb-4" style="width: 160px; height: 160px; max-width: 100%; object-fit: cover;">
