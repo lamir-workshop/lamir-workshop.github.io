@@ -104,7 +104,7 @@ conference:
           relative_url: /travel_awards/
         - name: Keynotes and Invited Talks
           relative_url: /talks/
-        - name: About the Location
+        - name: Local Information and Hotels
           relative_url: /local/
       - name: About
         menu:
