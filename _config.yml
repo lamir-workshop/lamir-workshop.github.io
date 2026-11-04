@@ -96,6 +96,8 @@ conference:
         menu:
           - name: Call for Papers
             relative_url: /call4papers/
+          - name: Poster Printing
+            relative_url: /poster_printing/
       - name: Attend
         menu:
         - name: Registration
