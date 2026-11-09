@@ -101,7 +101,7 @@ conference:
       - name: Attend
         menu:
         - name: Registration
-          absolute_url: https://www.even3.com.br/2nd-latin-american-music-information-retrieval-lamir-brl-806824
+          absolute_url: https://www.even3.com.br/2nd-latin-american-music-information-retrieval-lamir-brl-806824/
         - name: Travel Awards
           relative_url: /travel_awards/
         - name: Keynotes and Invited Talks
