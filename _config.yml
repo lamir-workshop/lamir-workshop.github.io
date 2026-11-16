@@ -150,6 +150,17 @@ conference:
         logo: nowon.png
         url: https://nowon.io/
     institutional_support:
+      - name: IEAT/UFMG
+        full_name: Instituto de Estudos Avançados Transdisciplinares da UFMG
+        logo: ieat.png
+        url: https://www.ufmg.br/ieat/
+        logo_height: 180
+      - name: PPGCC/UFMG
+        full_name: Programa de Pós-Graduação em Ciência da Computação da UFMG
+        logo: ppgcc.png
+        url: https://ppgcc.dcc.ufmg.br/
+        logo_height: 180
+        logo_background: "#343a40"
       - name: UFMG
         full_name: Universidade Federal de Minas Gerais
         logo: ufmg.png
