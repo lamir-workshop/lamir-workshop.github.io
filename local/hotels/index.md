@@ -33,11 +33,15 @@ Stay in Pampulha for a shorter trip to the [CAD3 workshop venue]({{ '/local/cad3
 Hotel options include:
 
 - [BH Jaraguá Hotel](https://www.bhjaraguahotel.com.br/) — close to UFMG's main gate, in the Jaraguá neighborhood.
+  **LAMIR discount: 10% off** when booking through the official website with code **`LAMIR`** (without “2026”).
 - [Quality Hotel Pampulha & Convention Center](https://www.letsatlantica.com.br/hotel/quality-hotel-pampulha-convention-center) — on Avenida Presidente Antônio Carlos, in the São Luiz neighborhood.
+  **LAMIR discount: 27% off** when booking through the official website with code **`LAMIR2026`**, valid for stays from **December 14–18, 2026**.
 - [Allia Gran Pampulha Suites](https://www.alliagranpampulhasuites.com.br/) — on Rua Intendente Câmara, in the Liberdade neighborhood, with access to UFMG and the Pampulha area.
 - [San Diego Suítes Pampulha](https://sandiegohoteis.com.br/hoteis/san-diego-pampulha/) — on Avenida Otacílio Negrão de Lima, by Pampulha Lake.
+  **LAMIR discount: 10% off the floating rate** with code **`LAMIR2026`** in the official website’s “Código promocional” field. Valid only for website bookings and subject to availability. Parking is not available. Check-in: 14:00; check-out: 12:00.
 - [Nobile Inn Pampulha](https://www.nobilehoteis.com.br/sudeste/minas-gerais/belo-horizonte/nobile-inn-pampulha/) — another hotel option in the Pampulha area.
 - [Pampulha Flat](https://www.pampulhaflat.com/) — apartment-style accommodation with kitchen facilities, near UFMG's main gate.
+  **LAMIR discount: 10% off** when booking through the official website with code **`LAMIR2026`**.
 - [Woods Hostel BH](https://woodshostelbh.com/) — a hostel by Pampulha Lake, offering shared dormitories and private suites.
 - [Pampulha Lieu Apart Hotel](https://www.pampulhalieu.com.br/) — an option in the Pampulha area, near UFMG and the Mineirão complex.
 
