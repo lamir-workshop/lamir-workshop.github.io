@@ -1,11 +1,11 @@
 ---
-name: Andres Ferraro (Nowon)
+name: "Beyond the Algorithm: Interdisciplinary Perspectives on AI and Music Technologies"
 speakers: Andres Ferraro
 categories:
 - Industry
 ---
 
-Title and abstract to be announced (TBA). Check back soon.
+Abstract to be announced.
 
 <!--
 <br>

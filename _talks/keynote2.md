@@ -1,8 +1,8 @@
 ---
-name: Estefanía Cano (AudioSourceRE)
+name: "Sound Separation: Evolution, Applications, and Future Trends"
 speakers: Estefanía Cano
 categories:
 - Keynote
 ---
 
-Title and abstract to be announced.
+Abstract to be announced.

@@ -104,12 +104,12 @@ conference:
           absolute_url: https://www.even3.com.br/2nd-latin-american-music-information-retrieval-lamir-brl-806824/
         - name: Schedule
           relative_url: /schedule/
-        - name: Travel Awards
-          relative_url: /travel_awards/
         - name: Keynotes and Invited Talks
           relative_url: /talks/
         - name: Local Information and Hotels
           relative_url: /local/
+        - name: Travel Awards
+          relative_url: /travel_awards/
       - name: About
         menu:
         - name: Organizing Committee
